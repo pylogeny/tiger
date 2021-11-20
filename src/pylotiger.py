@@ -5,14 +5,16 @@ import statistics
 
 
 def get_rates(
-        set_partitions
+        set_partitions,
+        selected_chars=None
         ):
     """
     Compute the rate for one character.
     """
     rates = {}
     chars = [char for char, ps in set_partitions.items() if ps]
-    for i, char in enumerate(chars):
+    selected_chars = selected_chars or chars
+    for i, char in enumerate(selected_chars):
         scores = []
         for j, charB in enumerate(chars):
             if i != j:
@@ -54,61 +56,5 @@ def get_set_partitions(characters, taxa, filter_extremes=False):
             else:
                 parts[char].add(frozenset(partition))
     return parts
-
-
-if __name__ == "__main__":
-
-    characters = {
-            "X": {
-                "a": ["A"],
-                "b": ["B"],
-                "c": ["A"],
-                "d": ["A"],
-                "e": ["C"]
-                },
-            "Y": {
-                "a": ["D"],
-                "b": ["D"],
-                "c": ["E"],
-                "d": ["E"],
-                "e": ["F"]
-                },
-            "Z": {
-                "a": ["G"],
-                "b": ["H"],
-                "c": ["H"],
-                "d": ["H"],
-                "e": ["H"]
-                },
-            "A": {
-                "a": ["H"],
-                "b": ["H"],
-                "c": ["H"],
-                "d": ["H"],
-                "e": ["H"]
-                },
-            "B": {
-                "a": ["A"],
-                "b": ["B"],
-                "c": ["C"],
-                "d": ["D"],
-                "e": ["E"]
-                }
-            }
-    taxa = list("abcde")
-
-    parts = get_set_partitions(characters, taxa, filter_extremes=True)
-    for i, charA in enumerate("XYZAB"):
-        for j, charB in enumerate("XYZAB"):
-            print(charA, charB, "{0:.2f}".format(
-                get_partition_agreement_score(
-                        parts[charA],
-                        parts[charB])
-                ))
-
-    rates = get_rates(parts)
-    for char, rate in rates.items():
-        print(char, rate)
-
 
 
