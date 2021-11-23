@@ -149,3 +149,10 @@ changes from 0.667 to 0.5, since from two informative partitions in Y only one
 is compatible with the partition in Z. The score from Z to Y changes to 0,
 since the only partition left in character Y is not compatible with either of
 the two partitions left in Y.
+
+```python
+>>> get_partition_agreement_score(set_partitions["Z"], set_partitions["Y"])
+0
+>>> get_partition_agreement_score(set_partitions["Y"], set_partitions["Z"])
+0.5
+```
