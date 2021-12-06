@@ -1,6 +1,6 @@
 import pytest
 
-from pylotiger import get_set_partitions, get_rates
+from pylotiger import get_set_partitions, get_rates, corrected_pas
 import pylotiger
 from pathlib import Path
 import json
@@ -15,10 +15,10 @@ def test_get_rates():
     rates = get_rates(sptns, selected_chars=["1", "2", "3", "4", "5"])
     for i in [1, 2, 3, 4, 5]:
         assert round(rates[str(i)], 2) == round(data["results"][i-1], 2)
-    sptns2 = get_set_partitions(data["patterns"], data["taxa"],
-            filter_extremes=True) 
-    rates2 = get_rates(sptns2, selected_chars=["1", "2", "3", "4", "5"])
-    assert round(rates2["1"], 2) == 0.03
+    rates2 = get_rates(
+            sptns, selected_chars=["1", "2", "3", "4", "5"],
+            partition_func=corrected_pas)
+    assert round(rates2["1"], 2) == 0.01
     assert round(rates2["1"], 2) < round(rates["1"], 2)
     
     characters = {
