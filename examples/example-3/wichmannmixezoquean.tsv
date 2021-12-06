@@ -1,0 +1,1107 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG
+409	NorthHighlandMixe	I	əts	əts	ə ts		42_i-1
+410	SouthHighlandMixe	I	əts	əts	ə ts		42_i-1
+411	LowlandMixe	I	əəč	əəč	əː tʃ		42_i-1
+412	SayulaPopoluca	I	əə, əəts	əə	əː		42_i-1
+413	SayulaPopoluca	I	əə, əəts	əəts	əː ts		42_i-1
+414	OlutaPopoluca	I	əəs	əəs	əː s		42_i-1
+415	TexistepecZoque	I	ʔətsəʔ	ʔətsəʔ	ʔ ə ts ə ʔ		42_i-1
+416	SoteapanZoque	I	əč	əč	ə tʃ		42_i-1
+417	SantaMariaChimalapaZoque	I	ətstsiʔ	ətstsiʔ	ə tsː i ʔ		42_i-1
+418	SanMiguelChimalapaZoque	I	də-š	də-š	d ə + ʃ		42_i-2
+419	ChiapasZoque	I	əh	əh	ə h		42_i-1
+1	NorthHighlandMixe	all	nəhυm	nəhυm	n ə h υ/ʊ m		1_all-1
+2	SouthHighlandMixe	all	tukəʔy	tukəʔy	t u k ə ʔ j		1_all-2
+3	LowlandMixe	all	tuʔuk-ʔokəy	tuʔuk-ʔokəy	t u ʔ u k + ʔ o k ə j		1_all-2
+4	SayulaPopoluca	all	nu pəhən	nu pəhən	n u + p ə h ə n		1_all-3
+5	OlutaPopoluca	all	niʔtiʔk	niʔtiʔk	n i ʔ t i ʔ k		1_all-4
+6	TexistepecZoque	all	bumbe	bumbe	b u m b e		1_all-5
+7	SoteapanZoque	all	ikuməh	ikuməh	i k u m ə h		1_all-6
+8	SantaMariaChimalapaZoque	all	aŋteneʔ	aŋteneʔ	a ŋ t e n e ʔ		1_all-7
+9	SanMiguelChimalapaZoque	all	hemhiʔ	hemhiʔ	h e m h i ʔ		1_all-8
+10	ChiapasZoque	all	mumu	mumu	m u m u		1_all-5
+11	NorthHighlandMixe	ashes	haahm	haahm	h aː h m		2_ashes-2
+12	SouthHighlandMixe	ashes	haam	haam	h aː m		2_ashes-2
+13	LowlandMixe	ashes	kuy-haam	kuy-haam	k u j + h aː m		2_ashes-1
+14	SayulaPopoluca	ashes	kuy-hahm	kuy-hahm	k u j + h a h m		2_ashes-1
+15	OlutaPopoluca	ashes	hamə	hamə	h a m ə		2_ashes-2
+16	TexistepecZoque	ashes	kuyam	kuyam	k u j a m		2_ashes-1
+17	SoteapanZoque	ashes	kuy-ham	kuy-ham	k u j + h a m		2_ashes-1
+18	SantaMariaChimalapaZoque	ashes	kuy-ham	kuy-ham	k u j + h a m		2_ashes-1
+19	SanMiguelChimalapaZoque	ashes	kuy-ham	kuy-ham	k u j + h a m		2_ashes-1
+20	ChiapasZoque	ashes	kuy-ham	kuy-ham	k u j + h a m		2_ashes-1
+21	NorthHighlandMixe	bark	kïp ak	kïp ak	k ɨ p + a k		3_bark-1
+22	SouthHighlandMixe	bark	ak	ak	a k		3_bark-1
+23	LowlandMixe	bark	ak	ak	a k		3_bark-1
+24	SayulaPopoluca	bark	ak	ak	a k		3_bark-1
+25	TexistepecZoque	bark	kuy-daak	kuy-daak	k u j + d aː k		3_bark-2
+26	SantaMariaChimalapaZoque	bark	naka	naka	n a k a		3_bark-2
+27	SanMiguelChimalapaZoque	bark	kuy naka	kuy naka	k u j + n a k a		3_bark-2
+28	ChiapasZoque	bark	kuʔyu-naka	kuʔyu-naka	k u ʔ j u + n a k a		3_bark-2
+29	NorthHighlandMixe	belly	tiints	tiints	t iː n ts		4_belly-1
+30	SouthHighlandMixe	belly	mææts	mææts	m æː ts		4_belly-5
+31	LowlandMixe	belly	moʔošak	moʔošak	m o ʔ o ʃ a k		4_belly-2
+32	SayulaPopoluca	belly	tin-čay	tin-čay	t i n + tʃ a j		4_belly-1
+33	OlutaPopoluca	belly	puʔpu	puʔpu	p u ʔ p u		4_belly-3
+34	TexistepecZoque	belly	tsek	tsek	ts e k		4_belly-4
+35	SantaMariaChimalapaZoque	belly	tsek	tsek	ts e k		4_belly-4
+36	SanMiguelChimalapaZoque	belly	tsek	tsek	ts e k		4_belly-4
+37	ChiapasZoque	belly	tsek	tsek	ts e k		4_belly-4
+38	NorthHighlandMixe	big	məh	məh	m ə h		5_big-1
+39	SouthHighlandMixe	big	məh	məh	m ə h		5_big-1
+40	LowlandMixe	big	məh	məh	m ə h		5_big-1
+41	SayulaPopoluca	big	məh	məh	m ə h		5_big-1
+42	OlutaPopoluca	big	taʔnək	taʔnək	t a ʔ n ə k		5_big-2
+43	TexistepecZoque	big	wəəčeʔ	wəəčeʔ	w əː tʃ e ʔ		5_big-3
+44	SoteapanZoque	big	məh	məh	m ə h		5_big-1
+45	SantaMariaChimalapaZoque	big	wətiʔ	wətiʔ	w ə t i ʔ		5_big-3
+46	SanMiguelChimalapaZoque	big	komiʔ	komiʔ	k o m i ʔ		5_big-5
+47	ChiapasZoque	big	məha	məha	m ə h a		5_big-1
+48	NorthHighlandMixe	bird	həəyva	həəyva	h əː j v a		6_bird-1
+49	SouthHighlandMixe	bird	hoon	hoon	h oː n		6_bird-2
+50	LowlandMixe	bird	hoon	hoon	h oː n		6_bird-2
+51	SayulaPopoluca	bird	hohn	hohn	h o h n		6_bird-2
+52	OlutaPopoluca	bird	muuši	muuši	m uː ʃ i		6_bird-3
+53	TexistepecZoque	bird	hon	hon	h o n		6_bird-2
+54	SoteapanZoque	bird	hon	hon	h o n		6_bird-2
+55	SantaMariaChimalapaZoque	bird	hon	hon	h o n		6_bird-2
+56	SanMiguelChimalapaZoque	bird	hon	hon	h o n		6_bird-2
+57	ChiapasZoque	bird	paloma	paloma	p a l o m a		6_bird-4
+58	NorthHighlandMixe	bite	tsuʔuts	tsuʔuts	ts u ʔ u ts		7_bite-1
+59	SouthHighlandMixe	bite	tsuʔuts	tsuʔuts	ts u ʔ u ts		7_bite-1
+60	LowlandMixe	bite	noots	noots	n oː ts		7_bite-2
+61	SayulaPopoluca	bite	kutoʔ	kutoʔ	k u t o ʔ		7_bite-3
+62	OlutaPopoluca	bite	tsuʔts	tsuʔts	ts u ʔ ts		7_bite-4
+63	TexistepecZoque	bite	keʔts	keʔts	k e ʔ ts		7_bite-5
+64	SoteapanZoque	bite	was	was	w a s		7_bite-6
+65	SanMiguelChimalapaZoque	bite	waš	waš	w a ʃ		7_bite-6
+66	ChiapasZoque	bite	keʔts	keʔts	k e ʔ ts		7_bite-5
+67	NorthHighlandMixe	black	yək	yək	j ə k		8_black-1
+68	SouthHighlandMixe	black	yəhk	yəhk	j ə h k		8_black-1
+69	LowlandMixe	black	yik	yik	j i k		8_black-1
+70	SayulaPopoluca	black	yəgək	yəgək	j ə g ə k		8_black-2
+71	OlutaPopoluca	black	yəkəʔk	yəkəʔk	j ə k ə ʔ k		8_black-2
+72	TexistepecZoque	black	yək	yək	j ə k		8_black-1
+73	SoteapanZoque	black	yək	yək	j ə k		8_black-1
+74	SantaMariaChimalapaZoque	black	yək	yək	j ə k		8_black-1
+75	SanMiguelChimalapaZoque	black	yək-yək	yək-yək	j ə k + j ə k		8_black-1
+76	ChiapasZoque	black	yək	yək	j ə k		8_black-1
+77	NorthHighlandMixe	blood	nïïʔpun	nïïʔpun	n ïï/ɨː ʔ p u n		9_blood-1
+78	SouthHighlandMixe	blood	nəʔəpy	nəʔəpy	n ə ʔ ə p j		9_blood-1
+79	LowlandMixe	blood	nəʔpy	nəʔpy	n ə ʔ p j		9_blood-1
+80	SayulaPopoluca	blood	nipin	nipin	n i p i n		9_blood-1
+81	OlutaPopoluca	blood	nəʔpiʔn	nəʔpiʔn	n ə ʔ p i ʔ n		9_blood-1
+82	TexistepecZoque	blood	dəʔəpeñ	dəʔəpeñ	d ə ʔ ə p e ɲ		9_blood-1
+83	SoteapanZoque	blood	nəʔəpiñ	nəʔəpiñ	n ə ʔ ə p i ɲ		9_blood-1
+84	SantaMariaChimalapaZoque	blood	nəʔpin	nəʔpin	n ə ʔ p i n		9_blood-1
+85	SanMiguelChimalapaZoque	blood	nəpinʔ	nəpinʔ	n ə p i n ʔ		9_blood-1
+86	ChiapasZoque	blood	nəʔpin	nəʔpin	n ə ʔ p i n		9_blood-1
+87	NorthHighlandMixe	bone	pahk	pahk	p a h k		10_bone-1
+88	SouthHighlandMixe	bone	pahk	pahk	p a h k		10_bone-1
+89	LowlandMixe	bone	pahk	pahk	p a h k		10_bone-1
+90	SayulaPopoluca	bone	pahk	pahk	p a h k		10_bone-1
+91	OlutaPopoluca	bone	pakə	pakə	p a k ə		10_bone-1
+92	TexistepecZoque	bone	pak	pak	p a k		10_bone-1
+93	SoteapanZoque	bone	pak	pak	p a k		10_bone-1
+94	SantaMariaChimalapaZoque	bone	pak	pak	p a k		10_bone-1
+95	SanMiguelChimalapaZoque	bone	pak	pak	p a k		10_bone-1
+96	ChiapasZoque	bone	pak	pak	p a k		10_bone-1
+97	NorthHighlandMixe	breast	hυʔtaa	hυʔtaa	h υ/ʊ ʔ t aː		11_breast-1
+98	SouthHighlandMixe	breast	tsetsk	tsetsk	ts e ts k		11_breast-2
+99	LowlandMixe	breast	tsiʔits-ʔaniʔikš	tsiʔits-ʔaniʔikš	ts i ʔ i ts + ʔ a n i ʔ i k ʃ		11_breast-2
+100	SayulaPopoluca	breast	moʔy	moʔy	m o ʔ j		11_breast-3
+101	TexistepecZoque	breast	duun	duun	d uː n		11_breast-4
+102	SoteapanZoque	breast	nuunu	nuunu	n uː n u		11_breast-4
+103	SanMiguelChimalapaZoque	breast	tsuʔts-iʔ	tsuʔts-iʔ	ts u ʔ ts + i ʔ		11_breast-5
+104	ChiapasZoque	breast	tsuʔtsi	tsuʔtsi	ts u ʔ ts i		11_breast-5
+105	NorthHighlandMixe	burn tr.	tooy ~ toohy ~ toy	tooy	t oː j		12_burntr-1
+106	NorthHighlandMixe	burn tr.	tooy ~ toohy ~ toy	toohy	t oː h j		12_burntr-1
+107	NorthHighlandMixe	burn tr.	tooy ~ toohy ~ toy	toy	t o j		12_burntr-1
+108	SouthHighlandMixe	burn tr.	tsaʔay	tsaʔay	ts a ʔ a j		12_burntr-8
+109	LowlandMixe	burn tr.	noʔok	noʔok	n o ʔ o k		12_burntr-2
+110	SayulaPopoluca	burn tr.	ak-toy	ak-toy	a k + t o j		12_burntr-3
+111	OlutaPopoluca	burn tr.	yak-toy	yak-toy	j a k + t o j		12_burntr-3
+112	TexistepecZoque	burn tr.	doʔ-tokeñ	doʔ-tokeñ	d o ʔ + t o k e ɲ		12_burntr-5
+113	SoteapanZoque	burn tr.	noʔ	noʔ	n o ʔ		12_burntr-6
+114	SantaMariaChimalapaZoque	burn tr.	kəŋ	kəŋ	k ə ŋ		12_burntr-7
+115	SanMiguelChimalapaZoque	burn tr.	poŋ	poŋ	p o ŋ		12_burntr-4
+116	ChiapasZoque	burn tr.	poŋ	poŋ	p o ŋ		12_burntr-4
+117	NorthHighlandMixe	claw (nail)	šəəʔk	šəəʔk	ʃ əː ʔ k		13_clawnail-1
+118	SouthHighlandMixe	claw (nail)	šooky	šooky	ʃ oː k j		13_clawnail-1
+119	LowlandMixe	claw (nail)	šooky	šooky	ʃ oː k j		13_clawnail-1
+120	SayulaPopoluca	claw (nail)	šoohk	šoohk	ʃ oː h k		13_clawnail-1
+121	OlutaPopoluca	claw (nail)	šooki	šooki	ʃ oː k i		13_clawnail-1
+122	TexistepecZoque	claw (nail)	kəʔ-tsuʔks	kəʔ-tsuʔks	k ə ʔ + ts u ʔ k s		13_clawnail-2
+123	SoteapanZoque	claw (nail)	kətsəs	kətsəs	k ə ts ə s		13_clawnail-2
+124	SantaMariaChimalapaZoque	claw (nail)	kətsus	kətsus	k ə ts u s		13_clawnail-2
+125	SanMiguelChimalapaZoque	claw (nail)	kəʔtsuš	kəʔtsuš	k ə ʔ ts u ʃ		13_clawnail-2
+126	ChiapasZoque	claw (nail)	kəʔčus	kəʔčus	k ə ʔ tʃ u s		13_clawnail-2
+127	NorthHighlandMixe	cloud	vinïts	vinïts	v i n ɨ ts		14_cloud-1
+128	SouthHighlandMixe	cloud	nəmaʔa	nəmaʔa	n ə m a ʔ a		14_cloud-5
+129	LowlandMixe	cloud	hok	hok	h o k		14_cloud-2
+130	SayulaPopoluca	cloud	win-tuk	win-tuk	w i n + t u k		14_cloud-1
+131	OlutaPopoluca	cloud	vin-hoyeʔk	vin-hoyeʔk	v i n + h o j e ʔ k		14_cloud-1
+132	TexistepecZoque	cloud	ʔuʔksuʔ	ʔuʔksuʔ	ʔ u ʔ k s u ʔ		14_cloud-4
+133	SoteapanZoque	cloud	uksə	uksə	u k s ə		14_cloud-4
+134	SanMiguelChimalapaZoque	cloud	ʔin-əʔ	ʔin-əʔ	ʔ i n + ə ʔ		14_cloud-1
+135	ChiapasZoque	cloud	oʔna	oʔna	o ʔ n a		14_cloud-3
+136	NorthHighlandMixe	cold	šuš	šuš	ʃ u ʃ		15_cold-1
+137	SouthHighlandMixe	cold	šuš	šuš	ʃ u ʃ		15_cold-1
+138	LowlandMixe	cold	təč	təč	t ə tʃ		15_cold-2
+139	SayulaPopoluca	cold	payik	payik	p a j i k		15_cold-3
+140	OlutaPopoluca	cold	tušəʔk	tušəʔk	t u ʃ ə ʔ k		15_cold-4
+141	TexistepecZoque	cold	paak	paak	p aː k		15_cold-5
+142	SoteapanZoque	cold	pagak	pagak	p a g a k		15_cold-5
+143	SantaMariaChimalapaZoque	cold	wayaʔy	wayaʔy	w a j a ʔ j		15_cold-6
+144	SanMiguelChimalapaZoque	cold	wayayʔ	wayayʔ	w a j a j ʔ		15_cold-6
+145	ChiapasZoque	cold	pakak	pakak	p a k a k		15_cold-5
+146	NorthHighlandMixe	come	mεts ~ mεhts	mεts	m ɛ ts		16_come-1
+147	NorthHighlandMixe	come	mεts ~ mεhts	mεhts	m ɛ h ts		16_come-1
+148	SouthHighlandMixe	come	men	men	m e n		16_come-2
+149	LowlandMixe	come	min	min	m i n		16_come-2
+150	SayulaPopoluca	come	min ~ miʔn	min	m i n		16_come-3
+151	SayulaPopoluca	come	min ~ miʔn	miʔn	m i ʔ n		16_come-3
+152	OlutaPopoluca	come	min ~ miʔn	min	m i n		16_come-3
+153	OlutaPopoluca	come	min ~ miʔn	miʔn	m i ʔ n		16_come-3
+154	TexistepecZoque	come	beñ	beñ	b e ɲ		16_come-2
+155	SoteapanZoque	come	miñ	miñ	m i ɲ		16_come-2
+156	SantaMariaChimalapaZoque	come	min	min	m i n		16_come-2
+157	SanMiguelChimalapaZoque	come	min	min	m i n		16_come-2
+158	ChiapasZoque	come	min	min	m i n		16_come-2
+159	NorthHighlandMixe	die	ooʔk	ooʔk	oː ʔ k		17_die-1
+160	SouthHighlandMixe	die	ook	ook	oː k		17_die-1
+161	LowlandMixe	die	oʔok	oʔok	o ʔ o k		17_die-1
+162	SayulaPopoluca	die	oʔk	oʔk	o ʔ k		17_die-1
+163	OlutaPopoluca	die	ook	ook	oː k		17_die-1
+164	TexistepecZoque	die	kaʔ	kaʔ	k a ʔ		17_die-2
+165	SoteapanZoque	die	kaʔ	kaʔ	k a ʔ		17_die-2
+166	SantaMariaChimalapaZoque	die	kaʔh	kaʔh	k a ʔ h		17_die-2
+167	SanMiguelChimalapaZoque	die	kaʔ	kaʔ	k a ʔ		17_die-2
+168	ChiapasZoque	die	kaʔ	kaʔ	k a ʔ		17_die-2
+169	NorthHighlandMixe	dog	υk	υk	υ/ʊ k		18_dog-1
+170	SouthHighlandMixe	dog	uk	uk	u k		18_dog-1
+171	LowlandMixe	dog	uk	uk	u k		18_dog-1
+172	SayulaPopoluca	dog	tak	tak	t a k		18_dog-2
+173	OlutaPopoluca	dog	šuʔni	šuʔni	ʃ u ʔ n i		18_dog-3
+174	TexistepecZoque	dog	čempaʔ	čempaʔ	tʃ e m p a ʔ		18_dog-5
+175	SoteapanZoque	dog	čimpa	čimpa	tʃ i m p a		18_dog-5
+176	SantaMariaChimalapaZoque	dog	nuʔu	nuʔu	n u ʔ u		18_dog-6
+177	SanMiguelChimalapaZoque	dog	nuʔ	nuʔ	n u ʔ		18_dog-6
+178	ChiapasZoque	dog	tuwi	tuwi	t u w i		18_dog-4
+179	NorthHighlandMixe	drink	υυk	υυk	υː/ʊː k		19_drink-1
+180	SouthHighlandMixe	drink	uuk	uuk	uː k		19_drink-1
+181	LowlandMixe	drink	uk	uk	u k		19_drink-1
+182	SayulaPopoluca	drink	uuk ~ uʔk	uuk	uː k		19_drink-2
+183	SayulaPopoluca	drink	uuk ~ uʔk	uʔk	u ʔ k		19_drink-2
+184	OlutaPopoluca	drink	uuk	uuk	uː k		19_drink-2
+185	TexistepecZoque	drink	ʔuk	ʔuk	ʔ u k		19_drink-1
+186	SoteapanZoque	drink	uk	uk	u k		19_drink-1
+187	SantaMariaChimalapaZoque	drink	uk	uk	u k		19_drink-1
+188	SanMiguelChimalapaZoque	drink	ʔuk	ʔuk	ʔ u k		19_drink-1
+189	ChiapasZoque	drink	uhk	uhk	u h k		19_drink-1
+190	NorthHighlandMixe	dry	təʔəhts	təʔəhts	t ə ʔ ə h ts		20_dry-1
+191	SouthHighlandMixe	dry	təʔəts	təʔəts	t ə ʔ ə ts		20_dry-1
+192	LowlandMixe	dry	təʔəts	təʔəts	t ə ʔ ə ts		20_dry-1
+193	SayulaPopoluca	dry	kuytəʔts	kuytəʔts	k u j t ə ʔ ts		20_dry-1
+194	OlutaPopoluca	dry	təʔəʔs	təʔəʔs	t ə ʔ ə ʔ s		20_dry-1
+195	TexistepecZoque	dry	təts-kaʔ	təts-kaʔ	t ə ts + k a ʔ		20_dry-1
+196	SoteapanZoque	dry	ku-təts	ku-təts	k u + t ə ts		20_dry-1
+197	SantaMariaChimalapaZoque	dry	yak-yəts	yak-yəts	j a k + j ə ts		20_dry-1
+198	SanMiguelChimalapaZoque	dry	təts-iʔ	təts-iʔ	t ə ts + i ʔ		20_dry-1
+199	ChiapasZoque	dry	təʔts	təʔts	t ə ʔ ts		20_dry-1
+200	NorthHighlandMixe	ear	taatsk	taatsk	t aː ts k		21_ear-1
+201	SouthHighlandMixe	ear	tatsk	tatsk	t a ts k		21_ear-1
+202	LowlandMixe	ear	tətsʔak	tətsʔak	t ə ts ʔ a k		21_ear-1
+203	SayulaPopoluca	ear	taatsək	taatsək	t aː ts ə k		21_ear-1
+204	OlutaPopoluca	ear	taatsəək	taatsəək	t aː ts əː k		21_ear-1
+205	TexistepecZoque	ear	taatsək	taatsək	t aː ts ə k		21_ear-1
+206	SoteapanZoque	ear	taatsək	taatsək	t aː ts ə k		21_ear-1
+207	SantaMariaChimalapaZoque	ear	tatsək	tatsək	t a ts ə k		21_ear-1
+208	SanMiguelChimalapaZoque	ear	tatsək	tatsək	t a ts ə k		21_ear-1
+209	ChiapasZoque	ear	tatsək	tatsək	t a ts ə k		21_ear-1
+210	NorthHighlandMixe	earth	naaš	naaš	n aː ʃ		22_earth-1
+211	SouthHighlandMixe	earth	naš-wiʔñət	naš-wiʔñət	n a ʃ + w i ʔ ɲ ə t		22_earth-1
+212	LowlandMixe	earth	naaš	naaš	n aː ʃ		22_earth-1
+213	SayulaPopoluca	earth	naaš	naaš	n aː ʃ		22_earth-1
+214	OlutaPopoluca	earth	naašə	naašə	n aː ʃ ə		22_earth-1
+215	TexistepecZoque	earth	das	das	d a s		22_earth-1
+216	SoteapanZoque	earth	nas	nas	n a s		22_earth-1
+217	SantaMariaChimalapaZoque	earth	nas	nas	n a s		22_earth-1
+218	SanMiguelChimalapaZoque	earth	naš	naš	n a ʃ		22_earth-1
+219	ChiapasZoque	earth	nas	nas	n a s		22_earth-1
+220	NorthHighlandMixe	eat	kay	kay	k a j		23_eat-1
+221	SouthHighlandMixe	eat	kæy	kæy	k æ j		23_eat-2
+222	LowlandMixe	eat	kay	kay	k a j		23_eat-2
+223	SayulaPopoluca	eat	kay	kay	k a j		23_eat-2
+224	OlutaPopoluca	eat	kay	kay	k a j		23_eat-2
+225	TexistepecZoque	eat	kəʔəs	kəʔəs	k ə ʔ ə s		23_eat-3
+226	SoteapanZoque	eat	kəʔəs	kəʔəs	k ə ʔ ə s		23_eat-3
+227	SantaMariaChimalapaZoque	eat	kəʔs-oy	kəʔs-oy	k ə ʔ s + o j		23_eat-3
+228	SanMiguelChimalapaZoque	eat	kəš	kəš	k ə ʃ		23_eat-3
+229	ChiapasZoque	eat	kəʔs	kəʔs	k ə ʔ s		23_eat-3
+230	NorthHighlandMixe	egg	tuʔut	tuʔut	t u ʔ u t		24_egg-1
+231	SouthHighlandMixe	egg	tutsah	tutsah	t u ts a h		24_egg-1
+232	LowlandMixe	egg	tuʔuty	tuʔuty	t u ʔ u t j		24_egg-1
+233	SayulaPopoluca	egg	kooy	kooy	k oː j		24_egg-2
+234	OlutaPopoluca	egg	tuʔtiʔk	tuʔtiʔk	t u ʔ t i ʔ k		24_egg-1
+235	TexistepecZoque	egg	kaʔnpuk	kaʔnpuk	k a ʔ n p u k		24_egg-4
+236	SoteapanZoque	egg	kanpu	kanpu	k a n p u		24_egg-4
+237	SantaMariaChimalapaZoque	egg	poʔok	poʔok	p o ʔ o k		24_egg-3
+238	SanMiguelChimalapaZoque	egg	pohoʔk	pohoʔk	p o h o ʔ k		24_egg-3
+239	ChiapasZoque	egg	poka	poka	p o k a		24_egg-3
+240	NorthHighlandMixe	eye	viihn	viihn	v iː h n		25_eye-1
+241	SouthHighlandMixe	eye	ween	ween	w eː n		25_eye-1
+242	LowlandMixe	eye	wiin	wiin	w iː n		25_eye-1
+243	SayulaPopoluca	eye	wihn	wihn	w i h n		25_eye-1
+244	OlutaPopoluca	eye	vinə	vinə	v i n ə		25_eye-1
+245	TexistepecZoque	eye	ʔeš-kuʔ	ʔeš-kuʔ	ʔ e ʃ + k u ʔ		25_eye-2
+246	SoteapanZoque	eye	iš-kuy	iš-kuy	i ʃ + k u j		25_eye-2
+247	SantaMariaChimalapaZoque	eye	witəm	witəm	w i t ə m		25_eye-3
+248	SanMiguelChimalapaZoque	eye	wotəm	wotəm	w o t ə m		25_eye-3
+249	ChiapasZoque	eye	win	win	w i n		25_eye-1
+1002	NorthHighlandMixe	far	hekum	hekum	h e k u m		101_far-1
+1003	SouthHighlandMixe	far	hækæm	hækæm	h æ k æ m		101_far-1
+1004	LowlandMixe	far	həgem	həgem	h ə g e m		101_far-1
+1005	SayulaPopoluca	far	yagats	yagats	j a g a ts		101_far-2
+1006	OlutaPopoluca	far	heškeʔkeʔk	heškeʔkeʔk	h e ʃ k e ʔ k e ʔ k		101_far-3
+1007	TexistepecZoque	far	huʔum	huʔum	h u ʔ u m		101_far-5
+1008	SoteapanZoque	far	huʔumə	huʔumə	h u ʔ u m ə		101_far-5
+1009	SantaMariaChimalapaZoque	far	yaʔhi	yaʔhi	j a ʔ h i		101_far-4
+1010	SanMiguelChimalapaZoque	far	yah-əʔ	yah-əʔ	j a h + ə ʔ		101_far-4
+1011	ChiapasZoque	far	yaʔay	yaʔay	j a ʔ a j		101_far-4
+250	NorthHighlandMixe	fat n.	on	on	o n		26_fatn-1
+251	SouthHighlandMixe	fat n.	on	on	o n		26_fatn-1
+252	LowlandMixe	fat n.	wiin-ʔomb	wiin-ʔomb	w iː n + ʔ o m b		26_fatn-2
+253	SayulaPopoluca	fat n.	oʔtsək	oʔtsək	o ʔ ts ə k		26_fatn-3
+254	OlutaPopoluca	fat n.	ona	ona	o n a		26_fatn-1
+255	SoteapanZoque	fat n.	pəhi	pəhi	p ə h i		26_fatn-5
+256	SantaMariaChimalapaZoque	fat n.	grasa	grasa	g r a s a		26_fatn-6
+257	SanMiguelChimalapaZoque	fat n.	yew-eʔ	yew-eʔ	j e w + e ʔ		26_fatn-7
+258	ChiapasZoque	fat n.	kiʔnə	kiʔnə	k i ʔ n ə		26_fatn-4
+259	NorthHighlandMixe	feather	pahk	pahk	p a h k		27_feather-1
+260	SouthHighlandMixe	feather	pəhk	pəhk	p ə h k		27_feather-1
+261	LowlandMixe	feather	tseyñiʔi-bəhk	tseyñiʔi-bəhk	ts e j ɲ i ʔ i + b ə h k		27_feather-2
+262	OlutaPopoluca	feather	pəkə	pəkə	p ə k ə		27_feather-1
+263	TexistepecZoque	feather	pək	pək	p ə k		27_feather-1
+264	SoteapanZoque	feather	pək	pək	p ə k		27_feather-1
+265	SantaMariaChimalapaZoque	feather	pək	pək	p ə k		27_feather-1
+266	SanMiguelChimalapaZoque	feather	pək	pək	p ə k		27_feather-1
+267	ChiapasZoque	feather	pək	pək	p ə k		27_feather-1
+268	NorthHighlandMixe	fire	həəhn	həəhn	h əː h n		28_fire-1
+269	SouthHighlandMixe	fire	həən	həən	h əː n		28_fire-1
+270	LowlandMixe	fire	həən	həən	h əː n		10
+271	SayulaPopoluca	fire	həhn	həhn	h ə h n		28_fire-1
+272	OlutaPopoluca	fire	hənə	hənə	h ə n ə		28_fire-1
+273	TexistepecZoque	fire	hukut	hukut	h u k u t		28_fire-2
+274	SoteapanZoque	fire	huktə	huktə	h u k t ə		28_fire-2
+275	SantaMariaChimalapaZoque	fire	hukutə	hukutə	h u k u t ə		28_fire-2
+276	SanMiguelChimalapaZoque	fire	ʔaʔts-əʔ	ʔaʔts-əʔ	ʔ a ʔ ts + ə ʔ		28_fire-3
+277	ChiapasZoque	fire	hukətək	hukətək	h u k ə t ə k		28_fire-2
+278	NorthHighlandMixe	fish	ahkš	ahkš	a h k ʃ		29_fish-1
+279	SouthHighlandMixe	fish	akš	akš	a k ʃ		29_fish-1
+280	LowlandMixe	fish	akš	akš	a k ʃ		29_fish-1
+281	SayulaPopoluca	fish	akš	akš	a k ʃ		29_fish-1
+282	OlutaPopoluca	fish	koʔke	koʔke	k o ʔ k e		29_fish-2
+283	TexistepecZoque	fish	woʔŋ	woʔŋ	w o ʔ ŋ		29_fish-3
+284	SoteapanZoque	fish	təʔəpə	təʔəpə	t ə ʔ ə p ə		29_fish-4
+285	SantaMariaChimalapaZoque	fish	koke	koke	k o k e		29_fish-2
+286	SanMiguelChimalapaZoque	fish	koke	koke	k o k e		29_fish-2
+287	ChiapasZoque	fish	kokeh	kokeh	k o k e h		29_fish-2
+288	NorthHighlandMixe	fly v.	hεy ~ hεεy	hεy	h ɛ j		30_flyv-1
+289	NorthHighlandMixe	fly v.	hεy ~ hεεy	hεεy	h ɛ ɛ j		30_flyv-1
+290	SouthHighlandMixe	fly v.	kæhkəʔək	kæhkəʔək	k æ h k ə ʔ ə k		30_flyv-2
+291	LowlandMixe	fly v.	keek	keek	k eː k		30_flyv-2
+292	SayulaPopoluca	fly v.	keek ~ keʔk	keek	k eː k		30_flyv-2
+293	SayulaPopoluca	fly v.	keek ~ keʔk	keʔk	k e ʔ k		30_flyv-2
+294	OlutaPopoluca	fly v.	napap	napap	n a p a p		30_flyv-3
+295	TexistepecZoque	fly v.	kek	kek	k e k		30_flyv-2
+296	SoteapanZoque	fly v.	kek	kek	k e k		30_flyv-2
+297	SantaMariaChimalapaZoque	fly v.	kek	kek	k e k		30_flyv-2
+298	SanMiguelChimalapaZoque	fly v.	yuk-kek	yuk-kek	j u k + k e k		30_flyv-2
+299	ChiapasZoque	fly v.	sitiht	sitiht	s i t i h t		30_flyv-4
+300	NorthHighlandMixe	foot	tek	tek	t e k		31_foot-1
+301	SouthHighlandMixe	foot	teky	teky	t e k j		31_foot-1
+302	LowlandMixe	foot	teky	teky	t e k j		31_foot-1
+303	SayulaPopoluca	foot	tan	tan	t a n		31_foot-2
+304	OlutaPopoluca	foot	kəʔšta	kəʔšta	k ə ʔ ʃ t a		31_foot-3
+305	TexistepecZoque	foot	pak	pak	p a k		31_foot-5
+306	SoteapanZoque	foot	puy	puy	p u j		31_foot-6
+307	SantaMariaChimalapaZoque	foot	maŋ-kuʔy	maŋ-kuʔy	m a ŋ + k u ʔ j		31_foot-7
+308	SanMiguelChimalapaZoque	foot	maŋ-kuyʔ	maŋ-kuyʔ	m a ŋ + k u j ʔ		31_foot-7
+309	ChiapasZoque	foot	neʔŋ-bak	neʔŋ-bak	n e ʔ ŋ + b a k		31_foot-4
+310	NorthHighlandMixe	full	uts	uts	u ts		32_full-1
+311	SouthHighlandMixe	full	uhts	uhts	u h ts		32_full-1
+312	LowlandMixe	full	kuʔušy	kuʔušy	k u ʔ u ʃ j		32_full-2
+313	SayulaPopoluca	full	patsik	patsik	p a ts i k		32_full-3
+314	OlutaPopoluca	full	utsi	utsi	u ts i		32_full-1
+315	TexistepecZoque	full	kus-deʔ	kus-deʔ	k u s + d e ʔ		32_full-6
+316	SoteapanZoque	full	kus-ne	kus-ne	k u s + n e		32_full-6
+317	SantaMariaChimalapaZoque	full	yag-aŋ-tas	yag-aŋ-tas	j a g + a ŋ + t a s		32_full-7
+318	SanMiguelChimalapaZoque	full	taš-əʔ	taš-əʔ	t a ʃ + ə ʔ		32_full-7
+319	ChiapasZoque	full	hoʔəyupə	hoʔəyupə	h o ʔ ə j u p ə		32_full-5
+320	NorthHighlandMixe	give	məʔə	məʔə	m ə ʔ ə		33_give-1
+321	SouthHighlandMixe	give	yak	yak	j a k		33_give-3
+322	LowlandMixe	give	moʔ	moʔ	m o ʔ		33_give-1
+323	SayulaPopoluca	give	moy ~ moʔ	moy	m o j		33_give-1
+324	SayulaPopoluca	give	moy ~ moʔ	moʔ	m o ʔ		33_give-1
+325	OlutaPopoluca	give	moy ~ moʔ	moy	m o j		33_give-1
+326	OlutaPopoluca	give	moy ~ moʔ	moʔ	m o ʔ		33_give-1
+327	TexistepecZoque	give	čeʔ	čeʔ	tʃ e ʔ		33_give-2
+328	SoteapanZoque	give	čiʔ	čiʔ	tʃ i ʔ		33_give-2
+329	SantaMariaChimalapaZoque	give	tsiʔ	tsiʔ	ts i ʔ		33_give-2
+330	SanMiguelChimalapaZoque	give	tsiʔ	tsiʔ	ts i ʔ		33_give-2
+331	ChiapasZoque	give	čiʔ	čiʔ	tʃ i ʔ		33_give-2
+332	NorthHighlandMixe	good	oy	oy	o j		34_good-1
+333	SouthHighlandMixe	good	ey	ey	e j		34_good-1
+334	LowlandMixe	good	oy	oy	o j		34_good-1
+335	SayulaPopoluca	good	oy	oy	o j		34_good-1
+336	OlutaPopoluca	good	(ni)oya	oya	o j a		34_good-1
+337	TexistepecZoque	good	wəə	wəə	w əː		34_good-2
+338	SoteapanZoque	good	wəə	wəə	w əː		34_good-2
+339	SanMiguelChimalapaZoque	good	wəhə	wəhə	w ə h ə		34_good-2
+340	ChiapasZoque	good	oye	oye	o j e		34_good-1
+341	NorthHighlandMixe	green	tsυšk	tsυšk	ts υ/ʊ ʃ k		35_green-1
+342	SouthHighlandMixe	green	tsušk	tsušk	ts u ʃ k		35_green-1
+343	LowlandMixe	green	tsuš	tsuš	ts u ʃ		35_green-1
+344	SayulaPopoluca	green	šušuk	šušuk	ʃ u ʃ u k		35_green-1
+345	OlutaPopoluca	green	tušuʔk	tušuʔk	t u ʃ u ʔ k		35_green-1
+346	TexistepecZoque	green	tsuus	tsuus	ts uː s		35_green-1
+347	SoteapanZoque	green	tsuus	tsuus	ts uː s		35_green-1
+348	SantaMariaChimalapaZoque	green	tsuhus	tsuhus	ts u h u s		35_green-1
+349	SanMiguelChimalapaZoque	green	tsuš	tsuš	ts u ʃ		35_green-1
+350	ChiapasZoque	green	tsuhtsu	tsuhtsu	ts u h ts u		35_green-1
+351	NorthHighlandMixe	hair	vaahy	vaahy	v aː h j		36_hair-1
+352	SouthHighlandMixe	hair	waay	waay	w aː j		36_hair-1
+353	LowlandMixe	hair	waay	waay	w aː j		36_hair-1
+354	TexistepecZoque	hair	waʔy	waʔy	w a ʔ j		36_hair-1
+355	SoteapanZoque	hair	way	way	w a j		36_hair-1
+356	SantaMariaChimalapaZoque	hair	waʔy	waʔy	w a ʔ j		36_hair-1
+357	SanMiguelChimalapaZoque	hair	wayʔ	wayʔ	w a j ʔ		36_hair-1
+358	ChiapasZoque	hair	way	way	w a j		36_hair-1
+359	SayulaPopoluca	hair	pəhk	pəhk	p ə h k		36_hair-1
+360	OlutaPopoluca	hair	pəkə	pəkə	p ə k ə		36_hair-1
+361	ChiapasZoque	hair	pək	pək	p ə k		36_hair-1
+362	NorthHighlandMixe	hand	kəʔə	kəʔə	k ə ʔ ə		37_hand-1
+363	SouthHighlandMixe	hand	kəʔə	kəʔə	k ə ʔ ə		37_hand-1
+364	LowlandMixe	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+365	SayulaPopoluca	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+366	OlutaPopoluca	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+367	TexistepecZoque	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+368	SoteapanZoque	hand	kə	kə	k ə		37_hand-1
+369	SantaMariaChimalapaZoque	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+370	SanMiguelChimalapaZoque	hand	tsaŋ-kuyʔ	tsaŋ-kuyʔ	ts a ŋ + k u j ʔ		37_hand-2
+371	ChiapasZoque	hand	kəʔ	kəʔ	k ə ʔ		37_hand-1
+372	NorthHighlandMixe	head	kuvahk	kuvahk	k u v a h k		38_head-1
+373	SouthHighlandMixe	head	kəpaahk	kəpaahk	k ə p aː h k		38_head-1
+374	LowlandMixe	head	kowahk	kowahk	k o w a h k		38_head-1
+375	SayulaPopoluca	head	kopak	kopak	k o p a k		38_head-1
+376	OlutaPopoluca	head	koʔpaʔk	koʔpaʔk	k o ʔ p a ʔ k		38_head-1
+377	TexistepecZoque	head	kopək	kopək	k o p ə k		38_head-1
+378	SoteapanZoque	head	koobak	koobak	k oː b a k		38_head-1
+379	SantaMariaChimalapaZoque	head	waʔy	waʔy	w a ʔ j		38_head-2
+380	SanMiguelChimalapaZoque	head	kopak	kopak	k o p a k		38_head-1
+381	ChiapasZoque	head	kopak	kopak	k o p a k		38_head-1
+382	NorthHighlandMixe	hear	motu	motu	m o t u		39_hear-1
+383	SouthHighlandMixe	hear	mətoo	mətoo	m ə t oː		39_hear-1
+384	LowlandMixe	hear	mədoogugəʔ	mədoogugəʔ	m ə d oː g u g ə ʔ		39_hear-1
+385	SayulaPopoluca	hear	maraw	maraw	m a r a w		39_hear-1
+386	OlutaPopoluca	hear	motov	motov	m o t o v		39_hear-1
+387	TexistepecZoque	hear	batəŋ	batəŋ	b a t ə ŋ		39_hear-1
+388	SoteapanZoque	hear	aŋ-təən	aŋ-təən	a ŋ + t əː n		39_hear-2
+389	SantaMariaChimalapaZoque	hear	matoŋ	matoŋ	m a t o ŋ		39_hear-1
+390	SanMiguelChimalapaZoque	hear	matoŋ	matoŋ	m a t o ŋ		39_hear-1
+391	ChiapasZoque	hear	matoŋ	matoŋ	m a t o ŋ		39_hear-1
+392	NorthHighlandMixe	heart	haʔvin	haʔvin	h a ʔ v i n		40_heart-1
+393	SouthHighlandMixe	heart	anmə-haʔan	anmə-haʔan	a n m ə + h a ʔ a n		40_heart-4
+394	LowlandMixe	heart	huuky-hot	huuky-hot	h uː k j + h o t		40_heart-2
+395	OlutaPopoluca	heart	hutukotə	hutukotə	h u t u k o t ə		40_heart-2
+396	TexistepecZoque	heart	tsookoʔ	tsookoʔ	ts oː k o ʔ		40_heart-3
+397	SoteapanZoque	heart	aanamah	aanamah	aː n a m a h		40_heart-4
+398	SantaMariaChimalapaZoque	heart	tsokoʔy	tsokoʔy	ts o k o ʔ j		40_heart-3
+399	SanMiguelChimalapaZoque	heart	tsokoyʔ	tsokoyʔ	ts o k o j ʔ		40_heart-3
+400	ChiapasZoque	heart	tsokoy	tsokoy	ts o k o j		40_heart-3
+1012	NorthHighlandMixe	heavy	hemïts	hemïts	h e m ɨ ts		102_heavy-1
+1013	SouthHighlandMixe	heavy	heʔmšy	heʔmšy	h e ʔ m ʃ j		102_heavy-2
+1014	LowlandMixe	heavy	hemšy	hemšy	h e m ʃ j		102_heavy-2
+1015	SayulaPopoluca	heavy	uʔts	uʔts	u ʔ ts		102_heavy-3
+1016	TexistepecZoque	heavy	tsaʔks-naʔ	tsaʔks-naʔ	ts a ʔ k s + n a ʔ		102_heavy-2
+1017	SoteapanZoque	heavy	tsakš-ñi	tsakš-ñi	ts a k ʃ + ɲ i		102_heavy-2
+1018	SantaMariaChimalapaZoque	heavy	hemets	hemets	h e m e ts		102_heavy-1
+1019	SanMiguelChimalapaZoque	heavy	hemeʔts	hemeʔts	h e m e ʔ ts		102_heavy-1
+1020	ChiapasZoque	heavy	hemets	hemets	h e m e ts		102_heavy-1
+401	NorthHighlandMixe	horn	vah	vah	v a h		41_horn-1
+402	SouthHighlandMixe	horn	wah	wah	w a h		41_horn-1
+403	LowlandMixe	horn	muʔn	muʔn	m u ʔ n		41_horn-2
+404	SayulaPopoluca	horn	wah	wah	w a h		41_horn-1
+405	OlutaPopoluca	horn	vaha	vaha	v a h a		41_horn-1
+406	TexistepecZoque	horn	waaŋaʔ	waaŋaʔ	w aː ŋ a ʔ		41_horn-1
+407	SanMiguelChimalapaZoque	horn	wekaʔ	wekaʔ	w e k a ʔ		41_horn-3
+408	ChiapasZoque	horn	waʔ	waʔ	w a ʔ		41_horn-1
+420	NorthHighlandMixe	kill	yak-ʔook ~ yak-ʔooʔk	yak-ʔook	j a k + ʔ oː k		43_kill-1
+421	NorthHighlandMixe	kill	yak-ʔook ~ yak-ʔooʔk	yak-ʔooʔk	j a k + ʔ oː ʔ k		43_kill-1
+422	SouthHighlandMixe	kill	æk-ook	æk-ook	æ k + oː k		43_kill-1
+423	LowlandMixe	kill	yah-ʔoʔok	yah-ʔoʔok	j a h + ʔ o ʔ o k		43_kill-1
+424	SayulaPopoluca	kill	ag-oʔk	ag-oʔk	a g + o ʔ k		43_kill-1
+425	OlutaPopoluca	kill	yak-ook	yak-ook	j a k + oː k		43_kill-1
+426	TexistepecZoque	kill	yakaʔ	yakaʔ	j a k a ʔ		43_kill-2
+427	SoteapanZoque	kill	ik-kaʔ	ik-kaʔ	i k + k a ʔ		43_kill-2
+428	SantaMariaChimalapaZoque	kill	yak-kaʔh	yak-kaʔh	j a k + k a ʔ h		43_kill-2
+429	SanMiguelChimalapaZoque	kill	yak-ʔoy	yak-ʔoy	j a k + ʔ o j		43_kill-2
+430	ChiapasZoque	kill	yah-kaʔ	yah-kaʔ	j a h + k a ʔ		43_kill-2
+431	NorthHighlandMixe	knee	koš	koš	k o ʃ		44_knee-1
+432	SouthHighlandMixe	knee	koš	koš	k o ʃ		44_knee-1
+433	LowlandMixe	knee	koškohwahk	koškohwahk	k o ʃ k o h w a h k		44_knee-1
+434	SayulaPopoluca	knee	košk	košk	k o ʃ k		44_knee-1
+435	OlutaPopoluca	knee	košo	košo	k o ʃ o		44_knee-1
+436	TexistepecZoque	knee	koosoʔ	koosoʔ	k oː s o ʔ		44_knee-1
+437	SoteapanZoque	knee	kooso	kooso	k oː s o		44_knee-1
+438	SantaMariaChimalapaZoque	knee	koʔma	koʔma	k o ʔ m a		44_knee-2
+439	SanMiguelChimalapaZoque	knee	komaʔ	komaʔ	k o m a ʔ		44_knee-2
+440	ChiapasZoque	knee	tungupyoʔk	tungupyoʔk	t u n g u p j o ʔ k		44_knee-3
+441	NorthHighlandMixe	know	nəhava	nəhava	n ə h a v a		45_know-1
+442	SouthHighlandMixe	know	naw	naw	n a w		45_know-1
+443	LowlandMixe	know	nehwəəy	nehwəəy	n e h w əː j		45_know-2
+444	SayulaPopoluca	know	hawi	hawi	h a w i		45_know-2
+445	OlutaPopoluca	know	viniy	viniy	v i n i j		45_know-2
+446	TexistepecZoque	know	bus	bus	b u s		45_know-3
+447	SoteapanZoque	know	hoodoʔŋ	hoodoʔŋ	h oː d o ʔ ŋ		45_know-4
+448	SantaMariaChimalapaZoque	know	mus	mus	m u s		45_know-3
+449	SanMiguelChimalapaZoque	know	muš	muš	m u ʃ		45_know-3
+450	ChiapasZoque	know	muhs	muhs	m u h s		45_know-3
+451	NorthHighlandMixe	leaf	aahy	aahy	aː h j		46_leaf-1
+452	SouthHighlandMixe	leaf	aay	aay	aː j		46_leaf-1
+453	LowlandMixe	leaf	aay	aay	aː j		46_leaf-1
+454	SayulaPopoluca	leaf	ahy	ahy	a h j		46_leaf-1
+455	OlutaPopoluca	leaf	ayə	ayə	a j ə		46_leaf-1
+456	TexistepecZoque	leaf	ʔay	ʔay	ʔ a j		46_leaf-1
+457	SoteapanZoque	leaf	ay	ay	a j		46_leaf-1
+458	SantaMariaChimalapaZoque	leaf	ay	ay	a j		46_leaf-1
+459	SanMiguelChimalapaZoque	leaf	ʔayʔ	ʔayʔ	ʔ a j ʔ		46_leaf-1
+460	ChiapasZoque	leaf	ay	ay	a j		46_leaf-1
+461	NorthHighlandMixe	lie	maʔva	maʔva	m a ʔ v a		47_lie-1
+462	SouthHighlandMixe	lie	koʔoky	koʔoky	k o ʔ o k j		47_lie-2
+463	LowlandMixe	lie	koʔok	koʔok	k o ʔ o k		47_lie-2
+464	SayulaPopoluca	lie	kəmna	kəmna	k ə m n a		47_lie-3
+465	OlutaPopoluca	lie	šok	šok	ʃ o k		47_lie-4
+466	TexistepecZoque	lie	kas-deʔ	kas-deʔ	k a s + d e ʔ		47_lie-5
+467	SoteapanZoque	lie	wooneʔe	wooneʔe	w oː n e ʔ e		47_lie-6
+468	SantaMariaChimalapaZoque	lie	moŋ-kətake	moŋ-kətake	m o ŋ + k ə t a k e		47_lie-7
+469	SanMiguelChimalapaZoque	lie	moŋ	moŋ	m o ŋ		47_lie-7
+470	ChiapasZoque	lie	əkgehk	əkgehk	ə k g e h k		47_lie-8
+471	NorthHighlandMixe	liver	nəə hoot	nəə hoot	n əː + h oː t		48_liver-1
+472	SouthHighlandMixe	liver	hoht	hoht	h o h t		48_liver-1
+473	LowlandMixe	liver	hot	hot	h o t		48_liver-1
+474	SayulaPopoluca	liver	hooht	hooht	h oː h t		48_liver-1
+475	OlutaPopoluca	liver	təʔshotə	təʔshotə	t ə ʔ s h o t ə		48_liver-1
+476	TexistepecZoque	liver	tsookoʔ	tsookoʔ	ts oː k o ʔ		48_liver-1
+477	SoteapanZoque	liver	tsoogoy	tsoogoy	ts oː g o j		48_liver-1
+478	SantaMariaChimalapaZoque	liver	tsokoʔy	tsokoʔy	ts o k o ʔ j		48_liver-1
+479	SanMiguelChimalapaZoque	liver	paʔt	paʔt	p a ʔ t		48_liver-2
+480	ChiapasZoque	liver	paʔt	paʔt	p a ʔ t		48_liver-2
+481	NorthHighlandMixe	long	yən	yən	j ə n		49_long-1
+482	SouthHighlandMixe	long	yeny	yeny	j e n j		49_long-1
+483	LowlandMixe	long	yoony	yoony	j oː n j		49_long-2
+484	SayulaPopoluca	long	yagats	yagats	j a g a ts		49_long-3
+485	OlutaPopoluca	long	yoneʔk	yoneʔk	j o n e ʔ k		49_long-4
+486	TexistepecZoque	long	yaʔakaʔts	yaʔakaʔts	j a ʔ a k a ʔ ts		49_long-3
+487	SoteapanZoque	long	yagats	yagats	j a g a ts		49_long-3
+488	SantaMariaChimalapaZoque	long	pəhi	pəhi	p ə h i		49_long-5
+489	SanMiguelChimalapaZoque	long	pəh-iʔ	pəh-iʔ	p ə h + i ʔ		49_long-5
+490	ChiapasZoque	long	pəy	pəy	p ə j		49_long-5
+491	NorthHighlandMixe	louse	əəʔts	əəʔts	əː ʔ ts		50_louse-1
+492	SouthHighlandMixe	louse	aʔaht	aʔaht	a ʔ a h t		50_louse-2
+493	LowlandMixe	louse	aad	aad	aː d		50_louse-1
+494	SayulaPopoluca	louse	aawat	aawat	aː w a t		50_louse-2
+495	OlutaPopoluca	louse	aavaʔt	aavaʔt	aː v a ʔ t		50_louse-2
+496	TexistepecZoque	louse	awaʔt	awaʔt	a w a ʔ t		50_louse-2
+497	SoteapanZoque	louse	aʔawat	aʔawat	a ʔ a w a t		50_louse-2
+498	SantaMariaChimalapaZoque	louse	awat	awat	a w a t		50_louse-2
+499	SanMiguelChimalapaZoque	louse	ʔawat	ʔawat	ʔ a w a t		50_louse-2
+500	ChiapasZoque	louse	awat	awat	a w a t		50_louse-2
+501	NorthHighlandMixe	man	yaaʔtyəhk	yaaʔtyəhk	j aː ʔ t j ə h k		51_man-1
+502	SouthHighlandMixe	man	hətyəhk	hətyəhk	h ə t j ə h k		51_man-1
+503	LowlandMixe	man	yeʔey-dəhk	yeʔey-dəhk	j e ʔ e j + d ə h k		51_man-1
+504	SayulaPopoluca	man	hayaw	hayaw	h a j a w		51_man-2
+505	OlutaPopoluca	man	yoʔohwa	yoʔohwa	j o ʔ o h w a		51_man-3
+506	TexistepecZoque	man	pəəñ	pəəñ	p əː ɲ		51_man-4
+507	SoteapanZoque	man	pəəšiñ	pəəšiñ	p əː ʃ i ɲ		51_man-4
+508	SantaMariaChimalapaZoque	man	pən	pən	p ə n		51_man-4
+509	SanMiguelChimalapaZoque	man	pən	pən	p ə n		51_man-4
+510	ChiapasZoque	man	pən	pən	p ə n		51_man-4
+511	NorthHighlandMixe	many	may	may	m a j		52_many-1
+512	SouthHighlandMixe	many	mæy	mæy	m æ j		52_many-1
+513	LowlandMixe	many	may	may	m a j		52_many-1
+514	SayulaPopoluca	many	may	may	m a j		52_many-1
+515	OlutaPopoluca	many	paʔko, taʔna	paʔko	p a ʔ k o		52_many-2
+516	OlutaPopoluca	many	paʔko, taʔna	taʔna	t a ʔ n a		52_many-2
+517	TexistepecZoque	many	dač-ke, bəks-ke, səʔəs-daʔa	dač-ke	d a tʃ + k e		52_many-4
+518	TexistepecZoque	many	dač-ke, bəks-ke, səʔəs-daʔa	bəks-ke	b ə k s + k e		52_many-4
+519	TexistepecZoque	many	dač-ke, bəks-ke, səʔəs-daʔa	səʔəs-daʔa	s ə ʔ ə s + d a ʔ a		52_many-4
+520	SoteapanZoque	many	agi, tsaam, haʔyaŋ, waatyi	agi	a g i		52_many-5
+521	SoteapanZoque	many	agi, tsaam, haʔyaŋ, waatyi	tsaam	ts aː m		52_many-5
+522	SoteapanZoque	many	agi, tsaam, haʔyaŋ, waatyi	haʔyaŋ	h a ʔ j a ŋ		52_many-5
+523	SoteapanZoque	many	agi, tsaam, haʔyaŋ, waatyi	waatyi	w aː t j i		52_many-5
+524	SantaMariaChimalapaZoque	many	səhəʔ	səhəʔ	s ə h ə ʔ		52_many-6
+525	SanMiguelChimalapaZoque	many	šəh-əʔ	šəh-əʔ	ʃ ə h + ə ʔ		52_many-6
+526	ChiapasZoque	many	wəwə, aŋ-baʔt-e, məʔčəki	wəwə	w ə w ə		52_many-3
+527	ChiapasZoque	many	wəwə, aŋ-baʔt-e, məʔčəki	aŋ-baʔt-e	a ŋ + b a ʔ t + e		52_many-3
+528	ChiapasZoque	many	wəwə, aŋ-baʔt-e, məʔčəki	məʔčəki	m ə ʔ tʃ ə k i		52_many-3
+529	NorthHighlandMixe	meat	tsuʔuts	tsuʔuts	ts u ʔ u ts		53_meat-1
+530	SouthHighlandMixe	meat	tsuʔučy	tsuʔučy	ts u ʔ u tʃ j		53_meat-1
+531	LowlandMixe	meat	tsuʔuč	tsuʔuč	ts u ʔ u tʃ		53_meat-1
+532	SayulaPopoluca	meat	šiš	šiš	ʃ i ʃ		53_meat-2
+533	OlutaPopoluca	meat	tsuʔči	tsuʔči	ts u ʔ tʃ i		53_meat-1
+534	TexistepecZoque	meat	šeš	šeš	ʃ e ʃ		53_meat-2
+535	SoteapanZoque	meat	maayi	maayi	m aː j i		53_meat-3
+536	SantaMariaChimalapaZoque	meat	sis	sis	s i s		53_meat-2
+537	SanMiguelChimalapaZoque	meat	šiš	šiš	ʃ i ʃ		53_meat-2
+538	ChiapasZoque	meat	sis	sis	s i s		53_meat-2
+539	NorthHighlandMixe	moon	poʔo	poʔo	p o ʔ o		54_moon-1
+540	SouthHighlandMixe	moon	poʔo	poʔo	p o ʔ o		54_moon-1
+541	LowlandMixe	moon	poʔ	poʔ	p o ʔ		54_moon-1
+542	SayulaPopoluca	moon	poʔ	poʔ	p o ʔ		54_moon-1
+543	OlutaPopoluca	moon	poʔa	poʔa	p o ʔ a		54_moon-1
+544	TexistepecZoque	moon	pooy	pooy	p oː j		54_moon-1
+545	SoteapanZoque	moon	pooya	pooya	p oː j a		54_moon-1
+546	SantaMariaChimalapaZoque	moon	sepeʔ	sepeʔ	s e p e ʔ		54_moon-2
+547	SanMiguelChimalapaZoque	moon	šepeʔ	šepeʔ	ʃ e p e ʔ		54_moon-2
+548	ChiapasZoque	moon	poyah	poyah	p o j a h		54_moon-1
+549	NorthHighlandMixe	mountain	kopk	kopk	k o p k		55_mountain-1
+550	SouthHighlandMixe	mountain	kokp	kokp	k o k p		55_mountain-1
+551	LowlandMixe	mountain	koʔogop, kop	koʔogop	k o ʔ o g o p		55_mountain-1
+552	LowlandMixe	mountain	koʔogop, kop	kop	k o p		55_mountain-1
+553	SayulaPopoluca	mountain	kopak	kopak	k o p a k		55_mountain-1
+554	OlutaPopoluca	mountain	kopaʔk	kopaʔk	k o p a ʔ k		55_mountain-1
+555	TexistepecZoque	mountain	kotsək	kotsək	k o ts ə k		55_mountain-2
+556	SoteapanZoque	mountain	kootsək	kootsək	k oː ts ə k		55_mountain-2
+557	SanMiguelChimalapaZoque	mountain	kotsək	kotsək	k o ts ə k		55_mountain-2
+558	ChiapasZoque	mountain	kotsək	kotsək	k o ts ə k		55_mountain-2
+559	NorthHighlandMixe	mouth	aah	aah	aː h		56_mouth-1
+560	SouthHighlandMixe	mouth	aa	aa	aː		56_mouth-1
+561	LowlandMixe	mouth	aawak	aawak	aː w a k		56_mouth-1
+562	SayulaPopoluca	mouth	ahw	ahw	a h w		56_mouth-1
+563	OlutaPopoluca	mouth	avə	avə	a v ə		56_mouth-1
+564	TexistepecZoque	mouth	həp	həp	h ə p		56_mouth-3
+565	SoteapanZoque	mouth	həp	həp	h ə p		56_mouth-3
+566	SantaMariaChimalapaZoque	mouth	həp	həp	h ə p		56_mouth-3
+567	SanMiguelChimalapaZoque	mouth	həp	həp	h ə p		56_mouth-3
+568	ChiapasZoque	mouth	aŋnaka	aŋnaka	a ŋ n a k a		56_mouth-2
+569	NorthHighlandMixe	name	šəə	šəə	ʃ əː		57_name-1
+570	SouthHighlandMixe	name	šəə	šəə	ʃ əː		57_name-1
+571	LowlandMixe	name	šəə	šəə	ʃ əː		57_name-1
+572	SayulaPopoluca	name	nəʔhy	nəʔhy	n ə ʔ h j		57_name-2
+573	OlutaPopoluca	name	šəvə	šəvə	ʃ ə v ə		57_name-1
+574	TexistepecZoque	name	dəy	dəy	d ə j		57_name-2
+575	SoteapanZoque	name	nəəyi	nəəyi	n əː j i		57_name-2
+576	SantaMariaChimalapaZoque	name	nəhi	nəhi	n ə h i		57_name-2
+577	SanMiguelChimalapaZoque	name	nəhi	nəhi	n ə h i		57_name-2
+578	ChiapasZoque	name	nəy	nəy	n ə j		57_name-2
+1021	NorthHighlandMixe	near	təmhi	təmhi	t ə m h i		103_near-2
+1022	SouthHighlandMixe	near	hənkon	hənkon	h ə n k o n		103_near-1
+1023	LowlandMixe	near	wingon	wingon	w i n g o n		103_near-1
+1024	SayulaPopoluca	near	tom	tom	t o m		103_near-2
+1025	OlutaPopoluca	near	tomeʔk	tomeʔk	t o m e ʔ k		103_near-2
+1026	TexistepecZoque	near	taʔan	taʔan	t a ʔ a n		103_near-3
+1027	SoteapanZoque	near	taʔañi	taʔañi	t a ʔ a ɲ i		103_near-3
+1028	SantaMariaChimalapaZoque	near	tomeʔ	tomeʔ	t o m e ʔ		103_near-2
+1029	SanMiguelChimalapaZoque	near	tom-eʔ	tom-eʔ	t o m + e ʔ		103_near-2
+1030	ChiapasZoque	near	tome	tome	t o m e		103_near-2
+579	NorthHighlandMixe	neck	yoʔkt	yoʔkt	j o ʔ k t		58_neck-1
+580	SouthHighlandMixe	neck	yoʔkt	yoʔkt	j o ʔ k t		58_neck-1
+581	LowlandMixe	neck	yoʔok-pahk	yoʔok-pahk	j o ʔ o k + p a h k		58_neck-1
+582	SayulaPopoluca	neck	yoʔk	yoʔk	j o ʔ k		58_neck-1
+583	TexistepecZoque	neck	kən-kəʔ	kən-kəʔ	k ə n + k ə ʔ		58_neck-2
+584	SanMiguelChimalapaZoque	neck	wintuʔ	wintuʔ	w i n t u ʔ		58_neck-3
+585	ChiapasZoque	neck	kənə	kənə	k ə n ə		58_neck-2
+586	NorthHighlandMixe	new	nam	nam	n a m		59_new-1
+587	SouthHighlandMixe	new	hempy	hempy	h e m p j		59_new-2
+588	LowlandMixe	new	hemy	hemy	h e m j		59_new-2
+589	SayulaPopoluca	new	namay	namay	n a m a j		59_new-1
+590	OlutaPopoluca	new	namə	namə	n a m ə		59_new-1
+591	TexistepecZoque	new	homə-naʔ	homə-naʔ	h o m ə + n a ʔ		59_new-2
+592	SoteapanZoque	new	hoomi	hoomi	h oː m i		59_new-2
+593	SantaMariaChimalapaZoque	new	homeʔ	homeʔ	h o m e ʔ		59_new-2
+594	SanMiguelChimalapaZoque	new	homeʔ	homeʔ	h o m e ʔ		59_new-2
+595	ChiapasZoque	new	home	home	h o m e		59_new-2
+596	NorthHighlandMixe	night	tsυυ	tsυυ	ts υː/ʊː		60_night-2
+597	SouthHighlandMixe	night	koots	koots	k oː ts		60_night-2
+598	LowlandMixe	night	adzuuʔəʔ	adzuuʔəʔ	a d z uː ʔ ə ʔ		60_night-1
+599	SayulaPopoluca	night	tsuʔ	tsuʔ	ts u ʔ		60_night-1
+600	OlutaPopoluca	night	tsuhə	tsuhə	ts u h ə		60_night-1
+601	TexistepecZoque	night	tsuʔ	tsuʔ	ts u ʔ		60_night-1
+602	SoteapanZoque	night	tsuʔu	tsuʔu	ts u ʔ u		60_night-1
+603	SantaMariaChimalapaZoque	night	tsuʔhi	tsuʔhi	ts u ʔ h i		60_night-1
+604	SanMiguelChimalapaZoque	night	tsuʔ	tsuʔ	ts u ʔ		60_night-1
+605	ChiapasZoque	night	tsuʔ	tsuʔ	ts u ʔ		60_night-1
+606	NorthHighlandMixe	nose	həhp	həhp	h ə h p		61_nose-1
+607	SouthHighlandMixe	nose	həhp	həhp	h ə h p		61_nose-1
+608	LowlandMixe	nose	həhp-put	həhp-put	h ə h p + p u t		61_nose-1
+609	SayulaPopoluca	nose	həhp	həhp	h ə h p		61_nose-1
+610	OlutaPopoluca	nose	həpə	həpə	h ə p ə		61_nose-1
+611	TexistepecZoque	nose	keñ-kuy	keñ-kuy	k e ɲ + k u j		61_nose-2
+612	SoteapanZoque	nose	kiiñi	kiiñi	k iː ɲ i		61_nose-2
+613	SantaMariaChimalapaZoque	nose	kinə	kinə	k i n ə		61_nose-2
+614	SanMiguelChimalapaZoque	nose	kinək	kinək	k i n ə k		61_nose-2
+615	ChiapasZoque	nose	kinə	kinə	k i n ə		61_nose-2
+616	NorthHighlandMixe	not	kaʔa	kaʔa	k a ʔ a		62_not-1
+617	SouthHighlandMixe	not	kaʔt	kaʔt	k a ʔ t		62_not-1
+618	LowlandMixe	not	kaʔ	kaʔ	k a ʔ		62_not-1
+619	SayulaPopoluca	not	kaah	kaah	k aː h		62_not-1
+620	OlutaPopoluca	not	əʔə	əʔə	ə ʔ ə		62_not-2
+621	TexistepecZoque	not	eñč	eñč	e ɲ tʃ		62_not-3
+622	SoteapanZoque	not	dYa	dYa	d Y/j a		62_not-4
+623	SantaMariaChimalapaZoque	not	wat kaha	wat kaha	w a t + k a h a		62_not-1
+624	SanMiguelChimalapaZoque	not	ya	ya	j a		62_not-4
+625	ChiapasZoque	not	haʔne	haʔne	h a ʔ n e		62_not-4
+626	NorthHighlandMixe	one	tυʔk	tυʔk	t υ/ʊ ʔ k		63_one-1
+627	SouthHighlandMixe	one	tuʔuk	tuʔuk	t u ʔ u k		63_one-1
+628	LowlandMixe	one	tuʔuk	tuʔuk	t u ʔ u k		63_one-1
+629	SayulaPopoluca	one	tuʔk	tuʔk	t u ʔ k		63_one-1
+630	OlutaPopoluca	one	tuʔk	tuʔk	t u ʔ k		63_one-1
+631	TexistepecZoque	one	tum	tum	t u m		63_one-2
+632	SoteapanZoque	one	tuum	tuum	t uː m		63_one-2
+633	SantaMariaChimalapaZoque	one	tumə	tumə	t u m ə		63_one-2
+634	SanMiguelChimalapaZoque	one	tumə	tumə	t u m ə		63_one-2
+635	ChiapasZoque	one	tumə	tumə	t u m ə		63_one-2
+636	NorthHighlandMixe	person	hayu	hayu	h a j u		64_person-1
+637	SouthHighlandMixe	person	haʔay	haʔay	h a ʔ a j		64_person-1
+638	LowlandMixe	person	həy	həy	h ə j		64_person-1
+639	SayulaPopoluca	person	hayaw	hayaw	h a j a w		64_person-1
+640	OlutaPopoluca	person	haykaʔk	haykaʔk	h a j k a ʔ k		64_person-1
+641	TexistepecZoque	person	pəəñ-čaʔ	pəəñ-čaʔ	p əː ɲ + tʃ a ʔ		64_person-2
+642	ChiapasZoque	person	pən-daʔm	pən-daʔm	p ə n + d a ʔ m		64_person-2
+643	NorthHighlandMixe	rain	tυυ	tυυ	t υː/ʊː		65_rain-1
+644	SouthHighlandMixe	rain	tuh	tuh	t u h		65_rain-1
+645	LowlandMixe	rain	tuu	tuu	t uː		65_rain-1
+646	SayulaPopoluca	rain	tuu	tuu	t uː		65_rain-1
+647	OlutaPopoluca	rain	tuuhə	tuuhə	t uː h ə		65_rain-1
+648	TexistepecZoque	rain	tuh	tuh	t u h		65_rain-1
+649	SoteapanZoque	rain	tuh	tuh	t u h		65_rain-1
+650	SantaMariaChimalapaZoque	rain	tuh	tuh	t u h		65_rain-1
+651	SanMiguelChimalapaZoque	rain	tuh	tuh	t u h		65_rain-1
+652	ChiapasZoque	rain	tuh	tuh	t u h		65_rain-1
+653	NorthHighlandMixe	red	tsapts	tsapts	ts a p ts		66_red-1
+654	SouthHighlandMixe	red	tsaps	tsaps	ts a p s		66_red-1
+655	LowlandMixe	red	tsapts	tsapts	ts a p ts		66_red-1
+656	SayulaPopoluca	red	tsabats	tsabats	ts a b a ts		66_red-1
+657	OlutaPopoluca	red	tsapaʔs	tsapaʔs	ts a p a ʔ s		66_red-1
+658	TexistepecZoque	red	tsaʔpaʔts	tsaʔpaʔts	ts a ʔ p a ʔ ts		66_red-1
+659	SoteapanZoque	red	tsabats	tsabats	ts a b a ts		66_red-1
+660	SantaMariaChimalapaZoque	red	tsapats	tsapats	ts a p a ts		66_red-1
+661	SanMiguelChimalapaZoque	red	tsapats	tsapats	ts a p a ts		66_red-1
+662	ChiapasZoque	red	tsapas	tsapas	ts a p a s		66_red-1
+663	NorthHighlandMixe	road	tυυʔ	tυυʔ	t υː/ʊː ʔ		67_road-1
+664	SouthHighlandMixe	road	tuʔu	tuʔu	t u ʔ u		67_road-1
+665	LowlandMixe	road	tuʔ	tuʔ	t u ʔ		67_road-1
+666	SayulaPopoluca	road	toow	toow	t oː w		67_road-1
+667	OlutaPopoluca	road	tuʔaʔw	tuʔaʔw	t u ʔ a ʔʷ		67_road-1
+668	TexistepecZoque	road	tuŋ	tuŋ	t u ŋ		67_road-1
+669	SoteapanZoque	road	tuŋ	tuŋ	t u ŋ		67_road-1
+670	SantaMariaChimalapaZoque	road	tuŋ	tuŋ	t u ŋ		67_road-1
+671	SanMiguelChimalapaZoque	road	tuŋ	tuŋ	t u ŋ		67_road-1
+672	ChiapasZoque	road	tuŋ	tuŋ	t u ŋ		67_road-1
+673	NorthHighlandMixe	root	aaʔts	aaʔts	aː ʔ ts		68_root-1
+674	SouthHighlandMixe	root	aats	aats	aː ts		68_root-1
+675	LowlandMixe	root	tikts	tikts	t i k ts		68_root-2
+676	SayulaPopoluca	root	tikčik	tikčik	t i k tʃ i k		68_root-2
+677	OlutaPopoluca	root	čistsəʔw	čistsəʔw	tʃ i s ts ə ʔʷ		68_root-2
+678	TexistepecZoque	root	čečək	čečək	tʃ e tʃ ə k		68_root-2
+679	SoteapanZoque	root	tyiičək	tyiičək	t j iː tʃ ə k		68_root-2
+680	SantaMariaChimalapaZoque	root	waʔts	waʔts	w a ʔ ts		68_root-3
+681	SanMiguelChimalapaZoque	root	waʔts	waʔts	w a ʔ ts		68_root-3
+682	ChiapasZoque	root	watsi	watsi	w a ts i		68_root-3
+683	NorthHighlandMixe	round	pigïk	pigïk	p i g ɨ k		69_round-1
+684	SouthHighlandMixe	round	pehk	pehk	p e h k		69_round-1
+685	LowlandMixe	round	pik	pik	p i k		69_round-1
+686	SayulaPopoluca	round	hoyoy	hoyoy	h o j o j		69_round-2
+687	TexistepecZoque	round	woy-woy-če	woy-woy-če	w o j + w o j + tʃ e		69_round-3
+688	SoteapanZoque	round	woyo	woyo	w o j o		69_round-3
+689	ChiapasZoque	round	huyuh	huyuh	h u j u h		69_round-2
+1031	NorthHighlandMixe	salt	kaan	kaan	k aː n		104_salt-1
+1032	SouthHighlandMixe	salt	kaan	kaan	k aː n		104_salt-1
+1033	LowlandMixe	salt	kaan	kaan	k aː n		104_salt-1
+1034	SayulaPopoluca	salt	kaan	kaan	k aː n		104_salt-1
+1035	OlutaPopoluca	salt	kaana	kaana	k aː n a		104_salt-1
+1036	TexistepecZoque	salt	kaan	kaan	k aː n		104_salt-1
+1037	SoteapanZoque	salt	kaana	kaana	k aː n a		104_salt-1
+1038	SantaMariaChimalapaZoque	salt	kana	kana	k a n a		104_salt-1
+1039	SanMiguelChimalapaZoque	salt	kana	kana	k a n a		104_salt-1
+1040	ChiapasZoque	salt	kana	kana	k a n a		104_salt-1
+690	NorthHighlandMixe	sand	pυʔυ	pυʔυ	p υ/ʊ ʔ υ/ʊ		70_sand-1
+691	SouthHighlandMixe	sand	puʔu	puʔu	p u ʔ u		70_sand-1
+692	LowlandMixe	sand	puʔ	puʔ	p u ʔ		70_sand-1
+693	SayulaPopoluca	sand	poʔy	poʔy	p o ʔ j		70_sand-1
+694	OlutaPopoluca	sand	puʔə	puʔə	p u ʔ ə		70_sand-1
+695	TexistepecZoque	sand	poʔoy	poʔoy	p o ʔ o j		70_sand-1
+696	SoteapanZoque	sand	poʔoy	poʔoy	p o ʔ o j		70_sand-1
+697	SantaMariaChimalapaZoque	sand	haweʔ	haweʔ	h a w e ʔ		70_sand-3
+698	SanMiguelChimalapaZoque	sand	poeʔ	poeʔ	p o e ʔ		70_sand-1
+699	ChiapasZoque	sand	waʔna	waʔna	w a ʔ n a		70_sand-2
+700	NorthHighlandMixe	say	vaʔañ	vaʔañ	v a ʔ a ɲ		71_say-1
+701	SouthHighlandMixe	say	nə-kapš	nə-kapš	n ə + k a p ʃ		71_say-5
+702	LowlandMixe	say	mənaʔn	mənaʔn	m ə n a ʔ n		71_say-2
+703	SayulaPopoluca	say	nəm	nəm	n ə m		71_say-3
+704	OlutaPopoluca	say	nəm	nəm	n ə m		71_say-3
+705	TexistepecZoque	say	dəm	dəm	d ə m		71_say-4
+706	SoteapanZoque	say	nəm	nəm	n ə m		71_say-4
+707	SantaMariaChimalapaZoque	say	nəm	nəm	n ə m		71_say-4
+708	SanMiguelChimalapaZoque	say	nəm	nəm	n ə m		71_say-4
+709	ChiapasZoque	say	nəm	nəm	n ə m		71_say-4
+710	NorthHighlandMixe	see	iš	iš	i ʃ		72_see-1
+711	SouthHighlandMixe	see	eš	eš	e ʃ		72_see-1
+712	LowlandMixe	see	iš	iš	i ʃ		72_see-1
+713	SayulaPopoluca	see	iš	iš	i ʃ		72_see-1
+714	TexistepecZoque	see	ʔeš	ʔeš	ʔ e ʃ		72_see-1
+715	SoteapanZoque	see	iʔiš	iʔiš	i ʔ i ʃ		72_see-1
+716	SantaMariaChimalapaZoque	see	is	is	i s		72_see-1
+717	SanMiguelChimalapaZoque	see	ʔiš	ʔiš	ʔ i ʃ		72_see-1
+718	ChiapasZoque	see	ʔis	ʔis	ʔ i s		72_see-3
+719	SayulaPopoluca	see	eʔp	eʔp	e ʔ p		72_see-1
+720	OlutaPopoluca	see	ʔeep	ʔeep	ʔ eː p		72_see-1
+721	NorthHighlandMixe	seed	təəmt	təəmt	t əː m t		73_seed-1
+722	SouthHighlandMixe	seed	pahk	pahk	p a h k		73_seed-2
+723	LowlandMixe	seed	pahk	pahk	p a h k		73_seed-2
+724	SayulaPopoluca	seed	puuh	puuh	p uː h		73_seed-3
+725	OlutaPopoluca	seed	pakə	pakə	p a k ə		73_seed-2
+726	TexistepecZoque	seed	puh	puh	p u h		73_seed-3
+727	SoteapanZoque	seed	pak	pak	p a k		73_seed-2
+728	SantaMariaChimalapaZoque	seed	puh	puh	p u h		73_seed-3
+729	SanMiguelChimalapaZoque	seed	puh	puh	p u h		73_seed-3
+730	ChiapasZoque	seed	puh	puh	p u h		73_seed-3
+1041	NorthHighlandMixe	short	kona	kona	k o n a		105_short-1
+1042	SouthHighlandMixe	short	kon	kon	k o n		105_short-1
+1043	LowlandMixe	short	kon	kon	k o n		105_short-1
+1044	OlutaPopoluca	short	konoʔk	konoʔk	k o n o ʔ k		105_short-1
+1045	TexistepecZoque	short	dokkoʔ	dokkoʔ	d o kː o ʔ		105_short-2
+1046	SoteapanZoque	short	noko	noko	n o k o		105_short-2
+1047	SantaMariaChimalapaZoque	short	konoʔ	konoʔ	k o n o ʔ		105_short-1
+1048	SanMiguelChimalapaZoque	short	kon(n)-oʔ	kon-oʔ	k o n + o ʔ		105_short-1
+1049	ChiapasZoque	short	kono	kono	k o n o		105_short-1
+731	NorthHighlandMixe	sit	tsïïna	tsïïna	ts ïï/ɨː n a		74_sit-1
+732	SouthHighlandMixe	sit	tsəən	tsəən	ts əː n		74_sit-1
+733	LowlandMixe	sit	inyəy, ištak	inyəy	i n j ə j		74_sit-2
+734	LowlandMixe	sit	inyəy, ištak	ištak	i ʃ t a k		74_sit-2
+735	SayulaPopoluca	sit	tsəəna	tsəəna	ts əː n a		74_sit-1
+736	OlutaPopoluca	sit	huunii	huunii	h uː n iː		74_sit-3
+737	TexistepecZoque	sit	kon	kon	k o n		74_sit-5
+738	SoteapanZoque	sit	koñ	koñ	k o ɲ		74_sit-5
+739	SantaMariaChimalapaZoque	sit	tsənay	tsənay	ts ə n a j		74_sit-1
+740	SanMiguelChimalapaZoque	sit	tsən	tsən	ts ə n		74_sit-1
+741	ChiapasZoque	sit	poks	poks	p o k s		74_sit-4
+742	NorthHighlandMixe	skin	ak	ak	a k		75_skin-1
+743	SouthHighlandMixe	skin	nəʔak	nəʔak	n ə ʔ a k		75_skin-1
+744	LowlandMixe	skin	ak	ak	a k		75_skin-1
+745	SayulaPopoluca	skin	ak	ak	a k		75_skin-1
+746	OlutaPopoluca	skin	akə	akə	a k ə		75_skin-1
+747	TexistepecZoque	skin	daak	daak	d aː k		75_skin-2
+748	SoteapanZoque	skin	naaka	naaka	n aː k a		75_skin-2
+749	SantaMariaChimalapaZoque	skin	naka	naka	n a k a		75_skin-2
+750	SanMiguelChimalapaZoque	skin	naka	naka	n a k a		75_skin-2
+751	ChiapasZoque	skin	naka	naka	n a k a		75_skin-2
+752	NorthHighlandMixe	sleep	maʔa	maʔa	m a ʔ a		76_sleep-1
+753	SouthHighlandMixe	sleep	maʔa	maʔa	m a ʔ a		76_sleep-1
+754	LowlandMixe	sleep	maʔ	maʔ	m a ʔ		76_sleep-1
+755	SayulaPopoluca	sleep	maa ~ maʔ	maa	m aː		76_sleep-1
+756	SayulaPopoluca	sleep	maa ~ maʔ	maʔ	m a ʔ		76_sleep-1
+757	OlutaPopoluca	sleep	maa ~  maah ~ maʔh	maa	m aː		76_sleep-1
+758	OlutaPopoluca	sleep	maa ~  maah ~ maʔh	maah	m aː h		76_sleep-1
+759	OlutaPopoluca	sleep	maa ~  maah ~ maʔh	maʔh	m a ʔ h		76_sleep-1
+760	TexistepecZoque	sleep	boŋ	boŋ	b o ŋ		76_sleep-3
+761	SoteapanZoque	sleep	moŋ	moŋ	m o ŋ		76_sleep-3
+762	SantaMariaChimalapaZoque	sleep	moŋ	moŋ	m o ŋ		76_sleep-3
+763	SanMiguelChimalapaZoque	sleep	kap-ney	kap-ney	k a p + n e j		76_sleep-4
+764	ChiapasZoque	sleep	əŋ	əŋ	ə ŋ		76_sleep-2
+765	NorthHighlandMixe	small	piʔk	piʔk	p i ʔ k		77_small-1
+766	SouthHighlandMixe	small	mutsk	mutsk	m u ts k		77_small-2
+767	LowlandMixe	small	muts	muts	m u ts		77_small-2
+768	SayulaPopoluca	small	čičic	čičic	tʃ i tʃ i c/tʃ		77_small-3
+769	OlutaPopoluca	small	čuuču	čuuču	tʃ uː tʃ u		77_small-3
+770	TexistepecZoque	small	həsə-baa	həsə-baa	h ə s ə + b aː		77_small-4
+771	SoteapanZoque	small	šutyu	šutyu	ʃ u t j u		77_small-5
+772	SanMiguelChimalapaZoque	small	wakšiŋʔ	wakšiŋʔ	w a k ʃ i ŋ ʔ		77_small-6
+773	ChiapasZoque	small	čiks	čiks	tʃ i k s		77_small-3
+774	NorthHighlandMixe	smoke	hok	hok	h o k		78_smoke-1
+775	SouthHighlandMixe	smoke	hok	hok	h o k		78_smoke-1
+776	LowlandMixe	smoke	həən-hok	həən-hok	h əː n + h o k		78_smoke-1
+777	SayulaPopoluca	smoke	wiʔšik	wiʔšik	w i ʔ ʃ i k		78_smoke-2
+778	OlutaPopoluca	smoke	hoko	hoko	h o k o		78_smoke-1
+779	TexistepecZoque	smoke	hook	hook	h oː k		78_smoke-1
+780	SoteapanZoque	smoke	hooko	hooko	h oː k o		78_smoke-1
+781	SantaMariaChimalapaZoque	smoke	oʔmaʔ	oʔmaʔ	o ʔ m a ʔ		78_smoke-3
+782	SanMiguelChimalapaZoque	smoke	ʔomaʔ	ʔomaʔ	ʔ o m a ʔ		78_smoke-3
+783	ChiapasZoque	smoke	hokoh	hokoh	h o k o h		78_smoke-1
+1050	NorthHighlandMixe	snake	tsaaʔn	tsaaʔn	ts aː ʔ n		106_snake-1
+1051	SouthHighlandMixe	snake	tsaʔany	tsaʔany	ts a ʔ a n j		106_snake-1
+1052	LowlandMixe	snake	tsaʔny	tsaʔny	ts a ʔ n j		106_snake-1
+1053	SayulaPopoluca	snake	tsanay	tsanay	ts a n a j		106_snake-1
+1054	OlutaPopoluca	snake	tsanaʔy	tsanaʔy	ts a n a ʔ j		106_snake-1
+1055	TexistepecZoque	snake	tsaañ	tsaañ	ts aː ɲ		106_snake-1
+1056	SoteapanZoque	snake	tsaañ	tsaañ	ts aː ɲ		106_snake-1
+1057	SantaMariaChimalapaZoque	snake	tsahin	tsahin	ts a h i n		106_snake-1
+1058	SanMiguelChimalapaZoque	snake	tsahin	tsahin	ts a h i n		106_snake-1
+1059	ChiapasZoque	snake	tsan	tsan	ts a n		106_snake-1
+784	NorthHighlandMixe	stand	tena	tena	t e n a		79_stand-1
+785	SouthHighlandMixe	stand	tənæy	tənæy	t ə n æ j		79_stand-1
+786	LowlandMixe	stand	tenaay	tenaay	t e n aː j		79_stand-1
+787	SayulaPopoluca	stand	tena	tena	t e n a		79_stand-1
+788	OlutaPopoluca	stand	teniy	teniy	t e n i j		79_stand-1
+789	TexistepecZoque	stand	hoop-deʔ	hoop-deʔ	h oː p + d e ʔ		79_stand-2
+790	SoteapanZoque	stand	teeñ	teeñ	t eː ɲ		79_stand-1
+791	SanMiguelChimalapaZoque	stand	ten	ten	t e n		79_stand-1
+792	ChiapasZoque	stand	tenay	tenay	t e n a j		79_stand-1
+793	SantaMariaChimalapaZoque	stand	maʔŋəy	maʔŋəy	m a ʔ ŋ ə j		79_stand-1
+794	SanMiguelChimalapaZoque	stand	maŋ-ney	maŋ-ney	m a ŋ + n e j		79_stand-1
+795	NorthHighlandMixe	star	maatsa	maatsa	m aː ts a		80_star-1
+796	SouthHighlandMixe	star	matsaʔa	matsaʔa	m a ts a ʔ a		80_star-1
+797	LowlandMixe	star	madzaʔ	madzaʔ	m a d z a ʔ		80_star-1
+798	SayulaPopoluca	star	maahts	maahts	m aː h ts		80_star-1
+799	OlutaPopoluca	star	maatsaʔaʔk	maatsaʔaʔk	m aː ts a ʔ a ʔ k		80_star-1
+800	TexistepecZoque	star	baatsaʔ	baatsaʔ	b aː ts a ʔ		80_star-1
+801	SoteapanZoque	star	maatsa	maatsa	m aː ts a		80_star-1
+802	SantaMariaChimalapaZoque	star	matsaʔ	matsaʔ	m a ts a ʔ		80_star-1
+803	SanMiguelChimalapaZoque	star	matsaʔ	matsaʔ	m a ts a ʔ		80_star-1
+804	ChiapasZoque	star	matsa	matsa	m a ts a		80_star-1
+805	NorthHighlandMixe	stone	tsaa	tsaa	ts aː		81_stone-1
+806	SouthHighlandMixe	stone	tsah	tsah	ts a h		81_stone-1
+807	LowlandMixe	stone	tsaa	tsaa	ts aː		81_stone-1
+808	SayulaPopoluca	stone	tsaʔ	tsaʔ	ts a ʔ		81_stone-1
+809	OlutaPopoluca	stone	tsaahə	tsaahə	ts aː h ə		81_stone-1
+810	TexistepecZoque	stone	tsaʔ	tsaʔ	ts a ʔ		81_stone-1
+811	SoteapanZoque	stone	tsa	tsa	ts a		81_stone-1
+812	SantaMariaChimalapaZoque	stone	tsaʔ	tsaʔ	ts a ʔ		81_stone-1
+813	SanMiguelChimalapaZoque	stone	tsaʔ	tsaʔ	ts a ʔ		81_stone-1
+814	ChiapasZoque	stone	tsaʔ	tsaʔ	ts a ʔ		81_stone-1
+815	NorthHighlandMixe	sun	šəə	šəə	ʃ əː		82_sun-1
+816	SouthHighlandMixe	sun	šəʔan	šəʔan	ʃ ə ʔ a n		82_sun-1
+817	LowlandMixe	sun	šəə	šəə	ʃ əː		82_sun-1
+818	SayulaPopoluca	sun	šəhw	šəhw	ʃ ə h w		82_sun-1
+819	OlutaPopoluca	sun	šəvə	šəvə	ʃ ə v ə		82_sun-1
+820	TexistepecZoque	sun	haam	haam	h aː m		82_sun-2
+821	SoteapanZoque	sun	haama	haama	h aː m a		82_sun-2
+822	SantaMariaChimalapaZoque	sun	hama	hama	h a m a		82_sun-2
+823	SanMiguelChimalapaZoque	sun	hama	hama	h a m a		82_sun-2
+824	ChiapasZoque	sun	hama	hama	h a m a		82_sun-2
+825	NorthHighlandMixe	swim	nə-vïïʔn	nə-vïïʔn	n ə + v ïï/ɨː ʔ n		83_swim-1
+826	SouthHighlandMixe	swim	nə-yum	nə-yum	n ə + j u m		83_swim-3
+827	LowlandMixe	swim	yaab	yaab	j aː b		83_swim-2
+828	SayulaPopoluca	swim	yun	yun	j u n		83_swim-3
+829	OlutaPopoluca	swim	yun	yun	j u n		83_swim-3
+830	TexistepecZoque	swim	pəʔn	pəʔn	p ə ʔ n		83_swim-5
+831	SoteapanZoque	swim	puʔn	puʔn	p u ʔ n		83_swim-5
+832	SantaMariaChimalapaZoque	swim	yun	yun	j u n		83_swim-3
+833	SanMiguelChimalapaZoque	swim	yuk	yuk	j u k		83_swim-6
+834	ChiapasZoque	swim	hemu	hemu	h e m u		83_swim-4
+835	NorthHighlandMixe	tail	tυʔšta	tυʔšta	t υ/ʊ ʔ ʃ t a		84_tail-1
+836	SouthHighlandMixe	tail	tutst	tutst	t u ts t		84_tail-1
+837	LowlandMixe	tail	piʔišy	piʔišy	p i ʔ i ʃ j		84_tail-2
+838	SayulaPopoluca	tail	tuʔhts	tuʔhts	t u ʔ h ts		84_tail-1
+839	OlutaPopoluca	tail	tuʔsta	tuʔsta	t u ʔ s t a		84_tail-1
+840	TexistepecZoque	tail	tuʔts	tuʔts	t u ʔ ts		84_tail-1
+841	SoteapanZoque	tail	tuʔts	tuʔts	t u ʔ ts		84_tail-1
+842	SantaMariaChimalapaZoque	tail	tuʔts	tuʔts	t u ʔ ts		84_tail-1
+843	SanMiguelChimalapaZoque	tail	tuʔts	tuʔts	t u ʔ ts		84_tail-1
+844	ChiapasZoque	tail	tuʔts	tuʔts	t u ʔ ts		84_tail-1
+845	NorthHighlandMixe	that	šiiʔ	šiiʔ	ʃ iː ʔ		85_that-1
+846	SouthHighlandMixe	that	hæʔæ	hæʔæ	h æ ʔ æ		85_that-6
+847	LowlandMixe	that	hehəmbə	hehəmbə	h e h ə m b ə		85_that-2
+848	SayulaPopoluca	that	yahyəʔn	yahyəʔn	j a h j ə ʔ n		85_that-3
+849	OlutaPopoluca	that	hamah	hamah	h a m a h		85_that-2
+850	SoteapanZoque	that	heam	heam	h e a m		85_that-2
+851	SanMiguelChimalapaZoque	that	ga.də	ga.də	g a d ə		85_that-5
+852	ChiapasZoque	that	əʔ	əʔ	ə ʔ		85_that-4
+1060	NorthHighlandMixe	thin	pehi	pehi	p e h i		107_thin-1
+1061	SouthHighlandMixe	thin	pehy	pehy	p e h j		107_thin-1
+1062	LowlandMixe	thin	pehy	pehy	p e h j		107_thin-1
+1063	SayulaPopoluca	thin	pehay	pehay	p e h a j		107_thin-1
+1064	OlutaPopoluca	thin	hətəʔt, niipakə, pakə	hətəʔt	h ə t ə ʔ t		107_thin-2
+1065	OlutaPopoluca	thin	hətəʔt, niipakə, pakə	niipakə	n iː p a k ə		107_thin-2
+1066	OlutaPopoluca	thin	hətəʔt, niipakə, pakə	pakə	p a k ə		107_thin-2
+1067	TexistepecZoque	thin	waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa	waayeʔ	w aː j e ʔ		107_thin-4
+1068	TexistepecZoque	thin	waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa	əʔks-kəʔdaʔa	ə ʔ k s + k ə ʔ d a ʔ a		107_thin-4
+1069	TexistepecZoque	thin	waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa	kal-pak-daʔa	k a l + p a k + d a ʔ a		107_thin-4
+1070	SoteapanZoque	thin	čehče, wayay	čehče	tʃ e h tʃ e		107_thin-5
+1071	SoteapanZoque	thin	čehče, wayay	wayay	w a j a j		107_thin-5
+1072	SantaMariaChimalapaZoque	thin	piʔiʔ	piʔiʔ	p i ʔ i ʔ		107_thin-1
+1073	SanMiguelChimalapaZoque	thin	kitsa	kitsa	k i ts a		107_thin-6
+1074	ChiapasZoque	thin	tseya, kay, pahka-pahka	tseya	ts e j a		107_thin-3
+1075	ChiapasZoque	thin	tseya, kay, pahka-pahka	kay	k a j		107_thin-3
+1076	ChiapasZoque	thin	tseya, kay, pahka-pahka	pahka-pahka	p a h k a + p a h k a		107_thin-3
+853	NorthHighlandMixe	this	yəʔə	yəʔə	j ə ʔ ə		86_this-1
+854	SouthHighlandMixe	this	yaʔat	yaʔat	j a ʔ a t		86_this-1
+855	LowlandMixe	this	hadaʔ	hadaʔ	h a d a ʔ		86_this-2
+856	SayulaPopoluca	this	ayəəh	ayəəh	a j əː h		86_this-1
+857	OlutaPopoluca	this	heʔ	heʔ	h e ʔ		86_this-3
+858	TexistepecZoque	this	yəʔəhəʔ	yəʔəhəʔ	j ə ʔ ə h ə ʔ		86_this-1
+859	SoteapanZoque	this	heʔepək	heʔepək	h e ʔ e p ə k		86_this-4
+860	SantaMariaChimalapaZoque	this	yəʔ-pəʔ	yəʔ-pəʔ	j ə ʔ + p ə ʔ		86_this-1
+861	SanMiguelChimalapaZoque	this	yəʔ	yəʔ	j ə ʔ		86_this-1
+862	ChiapasZoque	this	yəʔ-wə	yəʔ-wə	j ə ʔ + w ə		86_this-1
+863	NorthHighlandMixe	thou	mits	mits	m i ts		87_thou-1
+864	SouthHighlandMixe	thou	mehts	mehts	m e h ts		87_thou-1
+865	LowlandMixe	thou	miič	miič	m iː tʃ		87_thou-1
+866	SayulaPopoluca	thou	mii(č)	mii	m iː		87_thou-1
+867	OlutaPopoluca	thou	miis	miis	m iː s		87_thou-1
+868	TexistepecZoque	thou	bič	bič	b i tʃ		87_thou-1
+869	SoteapanZoque	thou	mič	mič	m i tʃ		87_thou-1
+870	SantaMariaChimalapaZoque	thou	mits(tsiʔ)	mits	m i ts		87_thou-1
+871	SanMiguelChimalapaZoque	thou	mi-š	mi-š	m i + ʃ		87_thou-1
+872	ChiapasZoque	thou	mih	mih	m i h		87_thou-1
+873	NorthHighlandMixe	tongue	toots	toots	t oː ts		88_tongue-1
+874	SouthHighlandMixe	tongue	toots	toots	t oː ts		88_tongue-1
+875	LowlandMixe	tongue	toots	toots	t oː ts		88_tongue-1
+876	SayulaPopoluca	tongue	toohts	toohts	t oː h ts		88_tongue-1
+877	OlutaPopoluca	tongue	tootsə	tootsə	t oː ts ə		88_tongue-1
+878	SoteapanZoque	tongue	tots	tots	t o ts		88_tongue-1
+879	SantaMariaChimalapaZoque	tongue	yen-kuʔy	yen-kuʔy	j e n + k u ʔ j		88_tongue-2
+880	SanMiguelChimalapaZoque	tongue	tots	tots	t o ts		88_tongue-1
+881	ChiapasZoque	tongue	tots	tots	t o ts		88_tongue-1
+882	NorthHighlandMixe	tooth	təəts	təəts	t əː ts		89_tooth-1
+883	SouthHighlandMixe	tooth	təəts	təəts	t əː ts		89_tooth-1
+884	LowlandMixe	tooth	təəts	təəts	t əː ts		89_tooth-1
+885	SayulaPopoluca	tooth	təəhts	təəhts	t əː h ts		89_tooth-1
+886	OlutaPopoluca	tooth	təətsə	təətsə	t əː ts ə		89_tooth-1
+887	TexistepecZoque	tooth	təts	təts	t ə ts		89_tooth-1
+888	SoteapanZoque	tooth	təts	təts	t ə ts		89_tooth-1
+889	SantaMariaChimalapaZoque	tooth	təts	təts	t ə ts		89_tooth-1
+890	SanMiguelChimalapaZoque	tooth	təts	təts	t ə ts		89_tooth-1
+891	ChiapasZoque	tooth	təts	təts	t ə ts		89_tooth-1
+892	NorthHighlandMixe	tree	kïp	kïp	k ɨ p		90_tree-1
+893	SouthHighlandMixe	tree	šoh	šoh	ʃ o h		90_tree-2
+894	LowlandMixe	tree	kipy	kipy	k i p j		90_tree-1
+895	SayulaPopoluca	tree	kuhy	kuhy	k u h j		90_tree-1
+896	OlutaPopoluca	tree	kuyə	kuyə	k u j ə		90_tree-1
+897	TexistepecZoque	tree	kuy	kuy	k u j		90_tree-1
+898	SoteapanZoque	tree	kuy	kuy	k u j		90_tree-1
+899	SantaMariaChimalapaZoque	tree	kuy	kuy	k u j		90_tree-1
+900	SanMiguelChimalapaZoque	tree	kuy	kuy	k u j		90_tree-1
+901	ChiapasZoque	tree	kuy	kuy	k u j		90_tree-1
+902	NorthHighlandMixe	two	mehtsk	mehtsk	m e h ts k		91_two-1
+903	SouthHighlandMixe	two	mætsk	mætsk	m æ ts k		91_two-1
+904	LowlandMixe	two	mets	mets	m e ts		91_two-1
+905	SayulaPopoluca	two	mečk	mečk	m e tʃ k		91_two-1
+906	OlutaPopoluca	two	mes-ko	mes-ko	m e s + k o		91_two-1
+907	TexistepecZoque	two	wəs-naʔ	wəs-naʔ	w ə s + n a ʔ		91_two-2
+908	SoteapanZoque	two	wəs-teen	wəs-teen	w ə s + t eː n		91_two-2
+909	SantaMariaChimalapaZoque	two	mets-aʔaŋ	mets-aʔaŋ	m e ts + a ʔ a ŋ		91_two-3
+910	SanMiguelChimalapaZoque	two	mets-a-ʔaŋ	mets-a-ʔaŋ	m e ts + a + ʔ a ŋ		91_two-3
+911	ChiapasZoque	two	metsa	metsa	m e ts a		91_two-1
+912	NorthHighlandMixe	walk/go	yoʔoy	yoʔoy	j o ʔ o j		92_walkgo-1
+913	SouthHighlandMixe	walk/go	yoʔoy	yoʔoy	j o ʔ o j		92_walkgo-1
+914	LowlandMixe	walk/go	yoʔoy	yoʔoy	j o ʔ o j		92_walkgo-1
+915	SayulaPopoluca	walk/go	yoʔy	yoʔy	j o ʔ j		92_walkgo-1
+916	OlutaPopoluca	walk/go	vit	vit	v i t		92_walkgo-2
+917	TexistepecZoque	walk/go	weč	weč	w e tʃ		92_walkgo-2
+918	SoteapanZoque	walk/go	wity	wity	w i t j		92_walkgo-2
+919	SanMiguelChimalapaZoque	walk/go	wit	wit	w i t		92_walkgo-2
+920	ChiapasZoque	walk/go	wiht	wiht	w i h t		92_walkgo-2
+921	SantaMariaChimalapaZoque	walk/go	tuʔŋah	tuʔŋah	t u ʔ ŋ a h		92_walkgo-1
+922	SanMiguelChimalapaZoque	walk/go	tuŋ-ʔah	tuŋ-ʔah	t u ŋ + ʔ a h		92_walkgo-1
+923	NorthHighlandMixe	warm	an	an	a n		93_warm-1
+924	SouthHighlandMixe	warm	an	an	a n		93_warm-1
+925	LowlandMixe	warm	an	an	a n		93_warm-1
+926	SayulaPopoluca	warm	powik, toyap	powik	p o w i k		93_warm-2
+927	SayulaPopoluca	warm	powik, toyap	toyap	t o j a p		93_warm-2
+928	OlutaPopoluca	warm	hokoʔš	hokoʔš	h o k o ʔ ʃ		93_warm-3
+929	SantaMariaChimalapaZoque	warm	nuts	nuts	n u ts		93_warm-5
+930	SanMiguelChimalapaZoque	warm	yuk-nuts	yuk-nuts	j u k + n u ts		93_warm-5
+931	ChiapasZoque	warm	pih, yoʔk-a	pih	p i h		93_warm-4
+932	ChiapasZoque	warm	pih, yoʔk-a	yoʔk-a	j o ʔ k + a		93_warm-4
+933	NorthHighlandMixe	water	nəə	nəə	n əː		94_water-1
+934	SouthHighlandMixe	water	nəh	nəh	n ə h		94_water-1
+935	LowlandMixe	water	nəə	nəə	n əː		94_water-1
+936	SayulaPopoluca	water	nəʔ	nəʔ	n ə ʔ		94_water-1
+937	OlutaPopoluca	water	nəəhə	nəəhə	n əː h ə		94_water-1
+938	TexistepecZoque	water	dəʔ	dəʔ	d ə ʔ		94_water-1
+939	SoteapanZoque	water	nə	nə	n ə		94_water-1
+940	SantaMariaChimalapaZoque	water	nəʔ	nəʔ	n ə ʔ		94_water-1
+941	SanMiguelChimalapaZoque	water	nəʔ	nəʔ	n ə ʔ		94_water-1
+942	ChiapasZoque	water	nəʔ	nəʔ	n ə ʔ		94_water-1
+943	NorthHighlandMixe	we	əəts	əəts	əː ts		95_we-1
+944	SouthHighlandMixe	we	əəts	əəts	əː ts		95_we-1
+945	LowlandMixe	we	əəč aht	əəč aht	əː tʃ + a h t		95_we-1
+946	SayulaPopoluca	we	əhtsat	əhtsat	ə h ts a t		95_we-1
+947	OlutaPopoluca	we	ətsaateʔk	ətsaateʔk	ə ts aː t e ʔ k		95_we-1
+948	TexistepecZoque	we	ʔəts-taʔ	ʔəts-taʔ	ʔ ə ts + t a ʔ		95_we-1
+949	SantaMariaChimalapaZoque	we	newinynen	newinynen	n e w i n j n e n		95_we-2
+950	SanMiguelChimalapaZoque	we	neywin	neywin	n e j w i n		95_we-2
+951	ChiapasZoque	we	təh	təh	t ə h		95_we-3
+952	NorthHighlandMixe	what	ti	ti	t i		96_what-1
+953	SouthHighlandMixe	what	tii	tii	t iː		96_what-1
+954	LowlandMixe	what	ti	ti	t i		96_what-1
+955	SayulaPopoluca	what	ti	ti	t i		96_what-1
+956	OlutaPopoluca	what	ti	ti	t i		96_what-1
+957	TexistepecZoque	what	čeʔ	čeʔ	tʃ e ʔ		96_what-1
+958	SoteapanZoque	what	tyi	tyi	t j i		96_what-1
+959	SantaMariaChimalapaZoque	what	ti	ti	t i		96_what-1
+960	SanMiguelChimalapaZoque	what	ti	ti	t i		96_what-1
+961	ChiapasZoque	what	tiyə	tiyə	t i j ə		96_what-1
+962	NorthHighlandMixe	white	pooʔp	pooʔp	p oː ʔ p		97_white-1
+963	SouthHighlandMixe	white	poop	poop	p oː p		97_white-1
+964	LowlandMixe	white	poob	poob	p oː b		97_white-1
+965	SayulaPopoluca	white	poʔp	poʔp	p o ʔ p		97_white-1
+966	OlutaPopoluca	white	poopoʔ	poopoʔ	p oː p o ʔ		97_white-1
+967	TexistepecZoque	white	popoʔ	popoʔ	p o p o ʔ		97_white-1
+968	SoteapanZoque	white	poʔobaap	poʔobaap	p o ʔ o b aː p		97_white-1
+969	SantaMariaChimalapaZoque	white	popoʔ	popoʔ	p o p o ʔ		97_white-1
+970	SanMiguelChimalapaZoque	white	popoʔ	popoʔ	p o p o ʔ		97_white-1
+971	ChiapasZoque	white	popo	popo	p o p o		97_white-1
+972	NorthHighlandMixe	who	pən	pən	p ə n		98_who-1
+973	SouthHighlandMixe	who	pən	pən	p ə n		98_who-1
+974	LowlandMixe	who	pən	pən	p ə n		98_who-1
+975	SayulaPopoluca	who	pən	pən	p ə n		98_who-1
+976	OlutaPopoluca	who	pən	pən	p ə n		98_who-1
+977	TexistepecZoque	who	ʔee	ʔee	ʔ eː		98_who-3
+978	SoteapanZoque	who	iapaʔap	iapaʔap	i a p a ʔ a p		98_who-4
+979	SantaMariaChimalapaZoque	who	i-wə	i-wə	i + w ə		98_who-2
+980	SanMiguelChimalapaZoque	who	ʔi-wə	ʔi-wə	ʔ i + w ə		98_who-2
+981	ChiapasZoque	who	i-wə	i-wə	i + w ə		98_who-2
+1077	NorthHighlandMixe	wind	poh	poh	p o h		108_wind-1
+1078	SouthHighlandMixe	wind	poh	poh	p o h		108_wind-1
+1079	LowlandMixe	wind	poh	poh	p o h		108_wind-1
+1080	SayulaPopoluca	wind	šeʔm	šeʔm	ʃ e ʔ m		108_wind-2
+1081	OlutaPopoluca	wind	haamu	haamu	h aː m u		108_wind-3
+1082	TexistepecZoque	wind	saaw	saaw	s aː w		108_wind-4
+1083	SoteapanZoque	wind	saawa	saawa	s aː w a		108_wind-4
+1084	SanMiguelChimalapaZoque	wind	šawa	šawa	ʃ a w a		108_wind-4
+1085	ChiapasZoque	wind	sawa	sawa	s a w a		108_wind-4
+982	NorthHighlandMixe	woman	təʔəštəhk	təʔəštəhk	t ə ʔ ə ʃ t ə h k		99_woman-1
+983	SouthHighlandMixe	woman	tišytyəhk	tišytyəhk	t i ʃ j t j ə h k		99_woman-2
+984	LowlandMixe	woman	toʔošyhəy	toʔošyhəy	t o ʔ o ʃ j h ə j		99_woman-2
+985	SayulaPopoluca	woman	toʔšay	toʔšay	t o ʔ ʃ a j		99_woman-2
+986	OlutaPopoluca	woman	mahaw	mahaw	m a h a w		99_woman-3
+987	TexistepecZoque	woman	yoomaʔ	yoomaʔ	j oː m a ʔ		99_woman-4
+988	SoteapanZoque	woman	yoomo	yoomo	j oː m o		99_woman-4
+989	SantaMariaChimalapaZoque	woman	yoməʔ	yoməʔ	j o m ə ʔ		99_woman-4
+990	SanMiguelChimalapaZoque	woman	yomaaʔ	yomaaʔ	j o m aː ʔ		99_woman-4
+991	ChiapasZoque	woman	yomo	yomo	j o m o		99_woman-4
+1086	NorthHighlandMixe	worm	naš-tsaaʔn	naš-tsaaʔn	n a ʃ + ts aː ʔ n		109_worm-1
+1087	SouthHighlandMixe	worm	tənəʔək	tənəʔək	t ə n ə ʔ ə k		109_worm-2
+1088	LowlandMixe	worm	təng	təng	t ə n g		109_worm-2
+1089	SayulaPopoluca	worm	tsugut	tsugut	ts u g u t		109_worm-3
+1090	OlutaPopoluca	worm	kumu	kumu	k u m u		109_worm-4
+1091	TexistepecZoque	worm	tsuʔukeñ	tsuʔukeñ	ts u ʔ u k e ɲ		109_worm-5
+1092	SoteapanZoque	worm	tsuuʔkiñ	tsuuʔkiñ	ts uː ʔ k i ɲ		109_worm-5
+1093	SantaMariaChimalapaZoque	worm	tsuʔkin	tsuʔkin	ts u ʔ k i n		109_worm-5
+1094	SanMiguelChimalapaZoque	worm	kumuʔ	kumuʔ	k u m u ʔ		109_worm-4
+1095	TexistepecZoque	worm	toʔt	toʔt	t o ʔ t		109_worm-1
+1096	ChiapasZoque	worm	toʔt	toʔt	t o ʔ t		109_worm-1
+1097	NorthHighlandMixe	year	hυυhnt	hυυhnt	h υː/ʊː h n t		110_year-1
+1098	SouthHighlandMixe	year	həməht	həməht	h ə m ə h t		110_year-1
+1099	LowlandMixe	year	həməht	həməht	h ə m ə h t		110_year-1
+1100	SayulaPopoluca	year	šiwit	šiwit	ʃ i w i t		110_year-2
+1101	OlutaPopoluca	year	šiviʔt	šiviʔt	ʃ i v i ʔ t		110_year-2
+1102	TexistepecZoque	year	ʔamče	ʔamče	ʔ a m tʃ e		110_year-3
+1103	SoteapanZoque	year	aamtyəy	aamtyəy	aː m t j ə j		110_year-3
+1104	SantaMariaChimalapaZoque	year	amintə	amintə	a m i n t ə		110_year-3
+1105	SanMiguelChimalapaZoque	year	ʔamintəʔ	ʔamintəʔ	ʔ a m i n t ə ʔ		110_year-3
+1106	ChiapasZoque	year	ame	ame	a m e		110_year-3
+992	NorthHighlandMixe	yellow	pυʔts	pυʔts	p υ/ʊ ʔ ts		100_yellow-1
+993	SouthHighlandMixe	yellow	puts	puts	p u ts		100_yellow-1
+994	LowlandMixe	yellow	puʔts	puʔts	p u ʔ ts		100_yellow-1
+995	SayulaPopoluca	yellow	puʔts-puts	puʔts-puts	p u ʔ ts + p u ts		100_yellow-1
+996	OlutaPopoluca	yellow	puʔs-puʔs	puʔs-puʔs	p u ʔ s + p u ʔ s		100_yellow-1
+997	TexistepecZoque	yellow	puʔuč-eʔ	puʔuč-eʔ	p u ʔ u tʃ + e ʔ		100_yellow-1
+998	SoteapanZoque	yellow	puʔuč	puʔuč	p u ʔ u tʃ		100_yellow-1
+999	SantaMariaChimalapaZoque	yellow	puʔtsiʔ	puʔtsiʔ	p u ʔ ts i ʔ		100_yellow-1
+1000	SanMiguelChimalapaZoque	yellow	puʔts-puʔts	puʔts-puʔts	p u ʔ ts + p u ʔ ts		100_yellow-1
+1001	ChiapasZoque	yellow	puʔtsə	puʔtsə	p u ʔ ts ə		100_yellow-1
