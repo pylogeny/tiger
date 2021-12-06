@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pylotiger',
-    version='0.1.0.dev0',
+    version='0.1.0',
     license='MIT',
     description='Distance-based cluster methods for linguistic phylogenies',
     long_description=open('README.md').read(),
@@ -29,7 +29,7 @@ setup(
     python_requires='>=3.6',
     install_requires=[],
     extras_require={
-        'dev': ['black', 'wheel', 'twine'],
+        'dev': ['wheel', 'twine'],
         'test': [
             'pytest>=4.3',
             'pytest-cov',

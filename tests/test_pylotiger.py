@@ -65,5 +65,35 @@ def test_get_rates():
     assert round(rates["X"], 2) == 0.54
     assert round(rates["A"], 2) == 1.00
 
+    chars = {
+            "C": {
+                "a": ["A"],
+                "b": ["A"],
+                "c": ["C"],
+                "d": ["C"],
+                "e": ["C"]
+                },
+            "D": {
+                "a": ["A"],
+                "b": ["A"],
+                "c": ["A"],
+                "d": ["C"],
+                "e": ["C"]
+                },
+            "E": {
+                "a": ["A"],
+                "b": ["A"],
+                "c": ["A"],
+                "d": ["A"],
+                "e": []
+                }
+            }
+
+    parts = get_set_partitions(chars, taxa)
+    rates = get_rates(parts, partition_func=corrected_pas)
+    assert corrected_pas(parts["C"], parts["D"]) == 1/3
+    assert corrected_pas(parts["C"], parts["E"], taxlen=4, excluded="X") == "X"
+
+
 
 

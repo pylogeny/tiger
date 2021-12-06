@@ -30,12 +30,15 @@ def get_rates(
         scores = []
         for j, charB in enumerate(chars):
             if i != j:
-                scores += [partition_func(
+                score = partition_func(
                         set_partitions[char],
                         set_partitions[charB],
                         **partition_kw
-                        )]
-        rates[char] = statistics.mean(scores)
+                        )
+                if score is not None:
+                    scores += [score]
+        if scores:
+            rates[char] = statistics.mean(scores)
     return rates
 
 
@@ -54,7 +57,7 @@ def get_partition_agreement_score(partitionA, partitionB):
     return statistics.mean(scores or [0])
 
 
-def corrected_pas(partitionA, partitionB, taxlen=None):
+def corrected_pas(partitionA, partitionB, taxlen=None, excluded=None):
     """
     Computed corrected partition agreement score.
 
@@ -62,25 +65,41 @@ def corrected_pas(partitionA, partitionB, taxlen=None):
     states and for character states that recur in all the taxonomic units in
     the data. These extreme cases are successively ignored when computing the
     partition agreement score.
+
+    @param partitionA, partitionB: set partitions to be compared
+    @param taxlen: if set to None, the number of taxa will be computed from
+      partitionA
+    @param excluded: how to return excluded characters (defaults to None)
     """
     links, matches = [], []
+
     # prune by getting number of taxa described by partition
     if not taxlen:
         all_taxa = set()
-        for prt in partitionA.union(partitionB):
+        for prt in partitionA:
             for taxon in prt:
                 all_taxa.add(taxon)
-        taxlen = len(all_taxa)
+        taxlenA = len(all_taxa)
+        all_taxa = set()
+        for prt in partitionB:
+            for taxon in prt:
+                all_taxa.add(taxon)
+        taxlenB = len(all_taxa)
+    else:
+        taxlenA, taxlenB = taxlen, taxlen
+
     for i, prtB in enumerate(partitionB):
         for j, prtA in enumerate(partitionA):
-            if taxlen > len(prtA) > 1 and taxlen > len(prtB) > 1:
+            if taxlenA > len(prtA) > 1 and taxlenB > len(prtB) > 1:
                 if prtA.intersection(prtB):
                     links += [1]
                 if prtB.issubset(prtA):
                     matches += [1]
     if matches:
         return sum(matches)/sum(links)
-    return 0
+    elif links:
+        return 0
+    return excluded
 
 
 def get_set_partitions(characters, taxa):
