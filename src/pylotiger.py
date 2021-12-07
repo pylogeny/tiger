@@ -3,6 +3,7 @@
 from collections import defaultdict
 import statistics
 
+__version__ = "0.1.0"
 
 def get_rates(
         set_partitions,

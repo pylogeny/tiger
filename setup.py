@@ -5,7 +5,7 @@ setup(
     name='pylotiger',
     version='0.1.0',
     license='MIT',
-    description='Distance-based cluster methods for linguistic phylogenies',
+    description='Python Package for Original and Corrected TIGER Rate Calculation',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     classifiers=[
@@ -19,7 +19,7 @@ setup(
     author='Johann-Mattis List',
     author_email='mattis_list@eva.mpg.de',
     url='https://github.com/pylogeny/tiger',
-    keywords='data',
+    keywords='phylogeny',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     py_modules=["pylotiger"],
