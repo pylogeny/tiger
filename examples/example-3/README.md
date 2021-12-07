@@ -17,3 +17,11 @@ This will yield:
 | Japonic      |          10 |        200 |        0.15 | 200 / 120 |         0.40 |         0.17 | 0.60 ± 0.32 | 0.26 ± 0.17 | 0.27 ± 0.07 |
 | Palaung      |          16 |        100 |        0.08 | 100 / 64  |         0.16 |         0.15 | 0.53 ± 0.34 | 0.28 ± 0.16 | 0.20 ± 0.02 |
 
+# Original Preparation of Data
+
+The wordlist files can be produced with `make`:
+
+```
+$ make clone
+$ make wordlists
+```

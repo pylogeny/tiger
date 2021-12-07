@@ -8,7 +8,7 @@ import json
 
 def test_get_rates():
 
-    pth = Path(pylotiger.__file__).parent.parent / "tests" / "data.json"
+    pth = Path(__file__).parent / "data.json"
     with open(pth) as f:
         data = json.load(f)
     sptns = get_set_partitions(data["patterns"], data["taxa"])

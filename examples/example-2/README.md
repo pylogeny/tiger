@@ -25,3 +25,13 @@ $ python run.py
 |          0.6 | 313 / 122.39 | 19.67 ± 8.03 | 0.81 ± 0.10 | 0.30 ± 0.20 |
 |          0.8 | 313 / 61.82  | 22.46 ± 6.70 | 0.87 ± 0.10 | 0.30 ± 0.20 |
 
+# Original Preparation of Uralex Data
+
+The file `uralex.tsv` was produced as follows (using `pyedictor`):
+
+```
+$ git clone https://github.com/lexibank/uralex.git
+$ pip install pyedictor
+$ cd uralex
+$ edictor wordlist --addon=cogid_cognateset_id:cog --name=uralex
+```

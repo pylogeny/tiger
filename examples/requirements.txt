@@ -8,6 +8,7 @@ fonttools==4.28.3
 isodate==0.6.0
 kiwisolver==1.3.2
 latexcodec==2.0.1
+lexibase==0.1.0
 lingpy==2.6.9
 matplotlib==3.5.0
 networkx==2.6.3
@@ -18,8 +19,9 @@ phylogemetric==1.1.0
 Pillow==8.4.0
 pybtex==0.24.0
 pycldf==1.24.0
+pyedictor==0.4
 pylodata==0.2.0
--e git+https://github.com/pylogeny/tiger@c39bae41d613dd52d0e7ac3f14e858e004ea52f2#egg=pylotiger
+pylotiger==0.1.0
 pyparsing==3.0.6
 python-dateutil==2.8.2
 python-nexus==2.5.2
