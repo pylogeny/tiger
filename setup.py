@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pylotiger',
-    version='0.2.0.dev0',
+    version='1.0',
     license='MIT',
     description='Python Package for Original and Corrected TIGER Rate Calculation',
     long_description=open('README.md').read(),
